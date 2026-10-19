@@ -1,0 +1,100 @@
+[
+ {
+  "index": 0,
+  "url": "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/56504/Alatau%20Zharyk%20Grid%20Reinforcement%20Board%20Report.pdf",
+  "other_urls": [
+   "https://timesca.com/kazakhstans-power-grid-revamp-secures-e267-million-backing-from-ebrd-and-canada/"
+  ],
+  "organization": "АО «Alatau Zharyk Company» (AZhC), дочерняя компания Samruk-Energy",
+  "pub_date": "2026-07-22",
+  "event_date": "2026-07-22",
+  "stage": "кредит одобрен советом директоров ЕБРР",
+  "amount": {
+   "value": "до 105 млрд",
+   "currency": "KZT",
+   "type": "кредит ЕБРР (эквивалент EUR 187 млн)",
+   "usd_approx": ""
+  },
+  "funding": "ЕБРР, старший необеспеченный кредит; подготовительная ТП из Shareholder Special Fund; ТП по программе SMART",
+  "deadline": "не указано",
+  "contact": "не указано",
+  "it_landscape": "не указано (устаревшая сетевая инфраструктура; цифровая стратегия и интегрированная smart grid архитектура только планируются)",
+  "quote": "support the development and adoption of a comprehensive digitalisation strategy for the Company, establishing an integrated smart grid architecture"
+ },
+ {
+  "index": 1,
+  "url": "https://en.apa.az/entrepreneurship/azerbaijan-preparing-digital-transformation-roadmaps-for-18-local-enterprises-this-year-529957",
+  "other_urls": [],
+  "organization": "Министерство экономики Азербайджана / Центр анализа и координации четвёртой промышленной революции",
+  "pub_date": "2026-10-14",
+  "event_date": "",
+  "stage": "государственная программа: разработка дорожных карт цифровой трансформации для 18 предприятий в 2026 г.",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "государственное финансирование (для дорожных карт на период до 2030 г.); сумма по 18 дорожным картам не указана",
+  "deadline": "",
+  "contact": "не указано; сообщил первый замминистра экономики Эльнур Алиев на III Национальном форуме конкуренции",
+  "it_landscape": "не указано; в качестве примера упомянут завод карбамида SOCAR (Global Lighthouse Network WEF)",
+  "quote": "the main task is to ensure that this experience is extended to a broader range of enterprises"
+ },
+ {
+  "index": 2,
+  "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-digital-transformation-of-uzbekistan-railways.html",
+  "other_urls": [
+   "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/55651/UTY_Board%20Report.pdf",
+   "https://daryo.uz/en/2026/06/20/ebrd-approves-384mn-loan-to-support-digital-transformation-of-uzbekistan-railways"
+  ],
+  "organization": "АО «Ўзбекистон темир йўллари» (Uzbekistan Railways, UTY)",
+  "pub_date": "2026-06-17",
+  "event_date": "2026-05-28",
+  "stage": "кредит одобрен советом ЕБРР; закупки ПО впереди",
+  "amount": {
+   "value": "до 38,4 млн",
+   "currency": "EUR",
+   "type": "кредит ЕБРР"
+  },
+  "funding": "ЕБРР (суверенный/госсектор)",
+  "deadline": "не указано",
+  "contact": "не указано",
+  "it_landscape": "ПО управления перевозками/диспетчеризации, кибербезопасность; подрядчик не назван",
+  "quote": "In its first such public-sector project in Uzbekistan"
+ },
+ {
+  "index": 3,
+  "url": "https://www.uzdaily.uz/ru/uzbekistan-vnedrit-novuiu-model-upravleniia-dannymi/",
+  "other_urls": [],
+  "organization": "Правительство Узбекистана / Комиссия по управлению данными (по решению Президента)",
+  "pub_date": "2026-09-02",
+  "event_date": "2026-09-02",
+  "stage": "решение принято; инвентаризация систем управления данными",
+  "amount": {
+   "value": "не указано"
+  },
+  "funding": "не указано",
+  "deadline": "2026-12-01 (инвентаризация), 2027-05-01 (план улучшения), 2027-07-01 (Национальная платформа данных)",
+  "contact": "не указано",
+  "it_landscape": "не указано",
+  "quote": "Мирзиёев подчеркнул значение точной, оперативной и достоверной статистики для формирования государственной политики"
+ },
+ {
+  "index": 4,
+  "url": "https://gov.uz/ru/digital/news/view/189234",
+  "other_urls": [],
+  "organization": "Министерство цифровых технологий Узбекистана / хокимият Ташкента",
+  "pub_date": "2026-07-07",
+  "event_date": "",
+  "stage": "поручение внедрить единую цифровую платформу госуправления с ИИ: Ташкент в 2026, регионы с 2027",
+  "amount": {
+   "value": "не указано"
+  },
+  "funding": "не указано",
+  "deadline": "2026 (Ташкент), 2027 (регионы)",
+  "contact": "не указано",
+  "it_landscape": "не указано",
+  "quote": "данную цифровую систему управления необходимо внедрить в этом году в столице"
+ }
+]

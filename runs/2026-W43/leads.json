@@ -1,0 +1,577 @@
+[
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [],
+  "event_date": "2026-07-22",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "yes",
+  "it_landscape": "не указано (устаревшая сетевая инфраструктура; цифровая стратегия и интегрированная smart grid архитектура только планируются)",
+  "contact": "не указано",
+  "funding": "ЕБРР, старший необеспеченный кредит; подготовительная ТП из Shareholder Special Fund; ТП по программе SMART",
+  "deadline": "",
+  "why_now": "Гипотеза: кредит одобрен, ТП ЕБРР по стратегии цифровизации и smart grid архитектуре только стартует — окно до выбора консультантов.",
+  "solution": "Гипотеза: [RM] оценка as-is и дорожная карта цифровизации сетевой компании, затем [DG] данные AMI/умного учёта и [IS] MDM/ADMS — как субподрядчик консультанта ТП или напрямую.",
+  "risks": "Консультанты ТП выбираются по процедурам ЕБРР, возможно международная фирма; часть отчёта закрыта; сроков закупок нет.",
+  "next_step": "Отслеживать procurement notices ЕБРР по проекту 56504 и выйти на ИТ-директора Алатау Жарык через Samruk-Energy.",
+  "query_id": "KZ-Q07",
+  "country": "KZ",
+  "sector": "Энергетика и зелёная энергетика",
+  "organization": "АО «Алатау Жарык Компаниясы» (Samruk-Energy)",
+  "trigger": "T5",
+  "service_lines": [
+   "RM",
+   "DG",
+   "IS"
+  ],
+  "title": "Kazakhstan - Alatau Zharyk Grid Reinforcement (EBRD Board report, DTM 56504)",
+  "url": "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/56504/Alatau%20Zharyk%20Grid%20Reinforcement%20Board%20Report.pdf",
+  "source_tier": 1,
+  "pub_date": "2026-08-18",
+  "stage": "кредит одобрен советом директоров ЕБРР",
+  "amount": {
+   "value": "до 105 млрд",
+   "currency": "KZT",
+   "type": "кредит ЕБРР на инвестпрограмму (весь проект)",
+   "usd_approx": ""
+  },
+  "quote": "support the development and adoption of a comprehensive digitalisation strategy for the Company, establishing an integrated smart grid architecture",
+  "reasoning": "ИФИ-кредит с ТП на цифровую стратегию, масштаб, окно открыто",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 0,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [
+   "https://kapital.kz/tehnology/152057/opyt-kazahstana-po-vnedreniyu-ai-otmetili-v-euronews.html"
+  ],
+  "event_date": "2026-05-04",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "",
+  "it_landscape": "Суперкомпьютер Al Farabium (мощность планируется увеличить почти втрое); сотрудники создают ИИ-агентов на платформе Kai-Fu Lee (01.ai); ИИ-агенты, хакатон",
+  "contact": "Нурлан Жакупов (выступление на Совете по развитию ИИ)",
+  "funding": "не указано",
+  "deadline": "",
+  "why_now": "Гипотеза: KPI +5% EBITDA через ИИ каскадированы на все портфельные компании в 2026 — им нужны быстрые кейсы и оценка готовности данных.",
+  "solution": "Гипотеза: [RM]+[DG] экспресс-оценка готовности данных к ИИ в отдельных портфельных компаниях (KEGOC, QazaqGaz), затем [AI] пилоты под KPI.",
+  "risks": "Внутренние центры компетенций фонда и партнёрство с 01.ai; закупок не объявлено; публикация от мая.",
+  "next_step": "Подготовить предложение по оценке AI-readiness для 1–2 портфельных компаний и выйти на их CDO.",
+  "query_id": "KZ-Q01",
+  "country": "KZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "АО «Самрук-Қазына» (портфельные компании, в т.ч. КазМунайГаз)",
+  "trigger": "T7",
+  "service_lines": [
+   "AI",
+   "RM",
+   "DG"
+  ],
+  "title": "Заседание Совета по развитию ИИ в Алматы: ИИ-повестка Самрук-Казына",
+  "url": "https://www.sk.kz/press-center/news/79047/?lang=en",
+  "source_tier": 1,
+  "pub_date": "2026-05-04",
+  "stage": "программа внедрения ИИ в портфельных компаниях, идёт реализация",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "quote": "We have cascaded KPIs across all portfolio companies to achieve a 5% increase in EBITDA in 2026",
+  "reasoning": "Прямое совпадение с AI, но нет закупки и бюджета; устарело",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 6,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [
+   "https://interfax.com/newsroom/top-stories/112773/"
+  ],
+  "event_date": "",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "",
+  "it_landscape": "не указано",
+  "contact": "не указано",
+  "funding": "не указано",
+  "deadline": "",
+  "why_now": "Гипотеза: подготовка к IPO требует проверки ИТ-ландшафта и данных для отчётности.",
+  "solution": "Гипотеза: [DD] IT due diligence для IPO и [DG] качество данных отчётности.",
+  "risks": "Сроки IPO уже сдвигались; первоисточник за пейволлом.",
+  "next_step": "Проверить сообщения KTZ и биржи об организаторах IPO.",
+  "query_id": "KZ-Q04",
+  "country": "KZ",
+  "sector": "Логистика и транспорт",
+  "organization": "АО «НК «Қазақстан темір жолы» (KTZ)",
+  "trigger": "T3",
+  "service_lines": [
+   "DD",
+   "DG"
+  ],
+  "title": "Kazakhstan Temir Zholy sticks to late 2026 IPO plan",
+  "url": "https://www.interfax.kz/en/news/80685",
+  "source_tier": 2,
+  "pub_date": "2026-06-16",
+  "stage": "объявлен план IPO (конец 2026)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "quote": "An initial public offering (IPO) for Kazakhstan Temir Zholy, the national railway company, is planned for late 2026",
+  "reasoning": "Корпоративное событие, косвенный fit, первоисточник не прочитан, устарело",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 0,
+   "window": 5
+  },
+  "confidence": "low"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [
+   "https://www.trend.az/azerbaijan/4234626.html"
+  ],
+  "event_date": "",
+  "modifiers": [],
+  "cap": "",
+  "verified": "yes",
+  "it_landscape": "не указано; в качестве примера упомянут завод карбамида SOCAR (Global Lighthouse Network WEF)",
+  "contact": "первый замминистра экономики Эльнур Алиев (выступление на III Национальном форуме конкуренции)",
+  "funding": "для 18 предприятий не указано; госфинансирование дорожных карт до 2030 г. упомянуто для расширения программы на другие предприятия",
+  "deadline": "",
+  "why_now": "Гипотеза: госпрограмма до конца 2026 года требует 18 дорожных карт — под это нужны исполнители-консультанты.",
+  "solution": "Гипотеза: [RM] оценка цифровой зрелости и дорожные карты для предприятий-участников, затем [IS]/[AI] по приоритетным инициативам.",
+  "risks": "Источники расходятся: APA — карты готовятся, Trend — уже получены; карты может готовить сам Центр 4ПР; список предприятий и бюджет не раскрыты.",
+  "next_step": "Связаться с Центром анализа и координации 4ПР при Минэкономики: узнать механизм привлечения консультантов и список предприятий.",
+  "query_id": "AZ-X02",
+  "country": "AZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Министерство экономики Азербайджана / Центр анализа и координации 4ПР",
+  "trigger": "T4",
+  "service_lines": [
+   "RM",
+   "IS",
+   "AI"
+  ],
+  "title": "Azerbaijan preparing digital transformation roadmaps for 18 local enterprises this year",
+  "url": "https://en.apa.az/entrepreneurship/azerbaijan-preparing-digital-transformation-roadmaps-for-18-local-enterprises-this-year-529957",
+  "source_tier": 2,
+  "pub_date": "2026-10-14",
+  "stage": "по APA — в 2026 г. готовятся дорожные карты цифровой трансформации для 18 предприятий (по Trend — уже получены, расхождение); задача — распространить опыт на более широкий круг предприятий",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "quote": "the main task is to ensure that this experience is extended to a broader range of enterprises",
+  "reasoning": "Прямой спрос на дорожные карты, госпрограмма, свежий; нет бюджета",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [],
+  "event_date": "2026-10-01",
+  "modifiers": [],
+  "cap": "",
+  "verified": "",
+  "it_landscape": "SpaceXAI (Grok) — партнёр по MoU",
+  "contact": "не указано",
+  "funding": "не указано",
+  "deadline": "",
+  "why_now": "Гипотеза: дорожная карта пилотов ИИ в госуслугах формируется сейчас; каждому пилоту нужны меры защиты данных.",
+  "solution": "Гипотеза: [DG] политика данных и защиты ПДн для пилотов GenAI в госуслугах, [AI] подготовка use cases.",
+  "risks": "Вендор модели уже выбран; это MoU без бюджета; каждый пилот — отдельное соглашение.",
+  "next_step": "Выйти на департамент ИИ Минцифры с предложением по data governance для пилотов.",
+  "query_id": "AZ-Q01",
+  "country": "AZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Министерство цифрового развития и транспорта Азербайджана",
+  "trigger": "T1",
+  "service_lines": [
+   "AI",
+   "DG"
+  ],
+  "title": "Azerbaijan signs MoU with SpaceXAI on artificial intelligence cooperation",
+  "url": "https://en.apa.az/finance/azerbaijan-signs-mou-with-spacexai-on-artificial-intelligence-cooperation-527525",
+  "source_tier": 2,
+  "pub_date": "2026-10-01",
+  "stage": "меморандум о сотрудничестве; дорожная карта пилотов планируется",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "quote": "We are pleased to work with the Ministry of Digital Development and Transport to bring Grok to government",
+  "reasoning": "AI-инициатива свежая, но вендор назван, нет бюджета",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 0,
+   "window": 0
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [],
+  "event_date": "",
+  "modifiers": [
+   "stale",
+   "off_profile"
+  ],
+  "cap": "",
+  "verified": "",
+  "it_landscape": "не указано; базовый инжиниринг — Sinosteel",
+  "contact": "не указано",
+  "funding": "международные кредиты под руководством ING Bank при поддержке Sinosure и SACE",
+  "deadline": "",
+  "why_now": "Гипотеза: greenfield-завод HBI до запуска в 2029 потребует ERP/MES с нуля.",
+  "solution": "Гипотеза: [RM] ИТ-стратегия greenfield-завода, затем [IS] ERP/MES.",
+  "risks": "ИТ-компонент не упомянут; EPC-подрядчик может принести свою автоматизацию.",
+  "next_step": "Добавить в watchlist; искать новости о EPC и ИТ-закупках.",
+  "query_id": "AZ-Q09",
+  "country": "AZ",
+  "sector": "Горнодобыча и металлургия",
+  "organization": "Azerbaijan Metal Company LLC (AzerGold / Fonte GreenMet)",
+  "trigger": "T2",
+  "service_lines": [
+   "IS",
+   "RM"
+  ],
+  "title": "Azerbaijan Metal Company завершила ТЭО для строительства завода по производству HBI",
+  "url": "https://gmk.center/news/azerbaijan-metal-company-zavershila-teo-dlya-stroitelstva-zavoda-po-proizvodstvu-hbi/",
+  "source_tier": 2,
+  "pub_date": "2026-06-11",
+  "stage": "банковское ТЭО завершено; базовый инжиниринг с Sinosteel",
+  "amount": {
+   "value": "800 млн",
+   "currency": "USD",
+   "type": "весь проект (CAPEX)",
+   "usd_approx": ""
+  },
+  "quote": "Azerbaijan Metal Company успешно завершила банковское технико-экономическое обоснование (ТЭО)",
+  "reasoning": "Крупная стройка без ИТ-компонента, устарело",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 0,
+   "urgency": 10,
+   "contact": 0,
+   "window": 0
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [
+   "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/55651/UTY_Board%20Report.pdf"
+  ],
+  "event_date": "2026-05-28",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "yes",
+  "it_landscape": "ПО управления перевозками и диспетчеризации, кибербезопасность (планируются); подрядчик не назван",
+  "contact": "не указано",
+  "funding": "ЕБРР",
+  "deadline": "",
+  "why_now": "Гипотеза: после одобрения кредита ЕБРР начинается подготовка закупок ПО — время для консультанта заказчика/PMO.",
+  "solution": "Гипотеза: [RM] оценка ИТ-ландшафта и дорожная карта, [IS] PMO и техзадание на систему управления перевозками, [DG] данные перевозок.",
+  "risks": "Закупки по правилам ЕБРР с международной конкуренцией; сроки не указаны; сумма в новости и Board report расходится (38,4 vs 40 млн EUR).",
+  "next_step": "Мониторить ecepp.ebrd.com по проекту 55651 и связаться с ИТ-департаментом UTY.",
+  "query_id": "UZ-Q14",
+  "country": "UZ",
+  "sector": "Логистика и транспорт",
+  "organization": "АО «Ўзбекистон темир йўллари» (Uzbekistan Railways)",
+  "trigger": "T5",
+  "service_lines": [
+   "IS",
+   "RM",
+   "DG"
+  ],
+  "title": "EBRD supports digital transformation of Uzbekistan Railways",
+  "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-digital-transformation-of-uzbekistan-railways.html",
+  "source_tier": 1,
+  "pub_date": "2026-06-17",
+  "stage": "кредит одобрен советом ЕБРР; закупки ПО впереди",
+  "amount": {
+   "value": "до 38,4 млн (новость ЕБРР); до 40 млн в Board report",
+   "currency": "EUR",
+   "type": "кредит ЕБРР",
+   "usd_approx": ""
+  },
+  "quote": "In its first such public-sector project in Uzbekistan",
+  "reasoning": "ИФИ-финансирование цифрового проекта, открытое окно, масштаб >$5 млн",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 0,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [
+   "https://www.uzdaily.uz/ru/uzbekistan-vnedrit-novuiu-model-upravleniia-dannymi/",
+   "https://gov.uz/en/digital/news/view/214732"
+  ],
+  "event_date": "2026-09-02",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "partial",
+  "it_landscape": "не указано",
+  "contact": "не указано",
+  "funding": "не указано",
+  "deadline": "2026-12-01",
+  "why_now": "Гипотеза: жёсткие сроки — инвентаризация до 01.12.2026, платформа до 01.07.2027; госорганам нужна методология.",
+  "solution": "Гипотеза: [DG] методология инвентаризации и модели управления данными, [RM] дорожная карта к Национальной платформе данных.",
+  "risks": "Комиссия пока только предложена; финансирование и исполнитель не указаны; возможно, всё делается силами госорганов.",
+  "next_step": "Выяснить состав Комиссии и ответственный орган (Минцифры/Статагентство) и предложить методологию.",
+  "query_id": "UZ-Q02",
+  "country": "UZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Правительство Узбекистана — предлагаемая Комиссия по управлению данными",
+  "trigger": "T4",
+  "service_lines": [
+   "DG",
+   "RM"
+  ],
+  "title": "New data management model to be introduced in the national statistical system",
+  "url": "https://president.uz/en/lists/view/9573",
+  "source_tier": 1,
+  "pub_date": "2026-09-02",
+  "stage": "предложено создать Комиссию по управлению данными из представителей министерств и ведомств; инвентаризация систем управления данными до 01.12.2026, план улучшения до 01.05.2027, Национальная платформа данных до 01.07.2027",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "quote": "it was proposed to create a Data Management Commission comprising representatives of ministries and agencies",
+  "reasoning": "Прямой DG, регуляторный дедлайн, но без бюджета",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 10,
+   "contact": 0,
+   "window": 5
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [],
+  "event_date": "",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "partial",
+  "it_landscape": "не указано",
+  "contact": "не указано",
+  "funding": "не указано",
+  "deadline": "",
+  "why_now": "Гипотеза: до конца 2026 нужно запустить систему в Ташкенте, тиражирование на регионы с 2027.",
+  "solution": "Гипотеза: [RM] дорожная карта тиражирования на регионы, [IS] PMO и приёмка, [AI] аналитические модели.",
+  "risks": "Вероятен госинтегратор; бюджет и подрядчик не указаны.",
+  "next_step": "Уточнить оператора платформы в Минцифры и этап для регионов 2027.",
+  "query_id": "UZ-Q07",
+  "country": "UZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Правительство Узбекистана (публикация Министерства цифровых технологий)",
+  "trigger": "T4",
+  "service_lines": [
+   "AI",
+   "IS",
+   "RM"
+  ],
+  "title": "Единая цифровая платформа госуправления с ИИ",
+  "url": "https://gov.uz/ru/digital/news/view/189234",
+  "source_tier": 1,
+  "pub_date": "2026-07-07",
+  "stage": "поручено внедрить единую цифровую систему управления с ИИ в столице в этом году, в регионах — с 2027 г.; исполнители — «ответственные лица»",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "quote": "данную цифровую систему управления необходимо внедрить в этом году в столице",
+  "reasoning": "Госпоручение по ИИ-платформе, без бюджета, контакта и точной даты",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 0,
+   "window": 5
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [],
+  "event_date": "",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "",
+  "it_landscape": "не указано",
+  "contact": "не указано",
+  "funding": "не указано",
+  "deadline": "2027-01-01",
+  "why_now": "Гипотеза: до IPO 2027 и перехода на МСФО компаниям нужна готовность данных и систем отчётности.",
+  "solution": "Гипотеза: [DD] IT due diligence к IPO, [DG] данные для МСФО-отчётности, [RM] дорожная карта финансовых систем.",
+  "risks": "IPO уже переносилось; консультанты по IPO могут быть уже выбраны (не указано).",
+  "next_step": "Выйти на финдиректоров Uzbekistan Airways и Uztelecom с предложением по готовности данных к МСФО/IPO.",
+  "query_id": "UZ-Q04",
+  "country": "UZ",
+  "sector": "Логистика и транспорт",
+  "organization": "АО «Uzbekistan Airways» и АО «Uztelecom»",
+  "trigger": "T3",
+  "service_lines": [
+   "DD",
+   "DG",
+   "RM"
+  ],
+  "title": "Govt plans to delay Uzbekistan Airways and Uztelecom IPOs until 2027",
+  "url": "https://kun.uz/en/news/2026/07/01/govt-plans-to-delay-uzbekistan-airways-and-uztelecom-ipos-until-2027-0f5ea6",
+  "source_tier": 2,
+  "pub_date": "2026-07-01",
+  "stage": "IPO перенесено на 2027; переход на МСФО с 2027-01-01",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "quote": "the public listings for both Uzbekistan Airways and Uztelecom are now slate for 2027",
+  "reasoning": "Корпоративное событие со сроком, косвенный fit, устарело",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 10,
+   "contact": 0,
+   "window": 5
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "other_urls": [],
+  "event_date": "",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "",
+  "it_landscape": "не указано",
+  "contact": "не указано",
+  "funding": "внебюджетный фонд Инспекции",
+  "deadline": "2027-01-01",
+  "why_now": "Гипотеза: после запуска ИС потребуется доработка и ИИ-модули в 2027.",
+  "solution": "Гипотеза: [AI] модели контроля недропользования, [IS] интеграция.",
+  "risks": "Реализация уже идёт; подрядчик неизвестен.",
+  "next_step": "Уточнить исполнителя и планы по ИИ-модулям.",
+  "query_id": "UZ-Q10",
+  "country": "UZ",
+  "sector": "Горнодобыча и металлургия",
+  "organization": "Инспекция по контролю за горнодобывающей промышленностью и геологией",
+  "trigger": "T1",
+  "service_lines": [
+   "IS",
+   "AI"
+  ],
+  "title": "ИС E-YER QARI NAZORATI",
+  "url": "https://gov.uz/ru/kongeotexnazorat/news/view/194617",
+  "source_tier": 1,
+  "pub_date": "2026-07-17",
+  "stage": "внедрение ИС идёт: запуск 2026-10-01, ИИ-системы до начала 2027",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "quote": "не указано",
+  "reasoning": "Госсистема в реализации, ИИ-этап впереди, без бюджета",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 6,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 10,
+   "contact": 0,
+   "window": 5
+  },
+  "confidence": "medium"
+ }
+]

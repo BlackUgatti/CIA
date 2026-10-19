@@ -1,0 +1,18 @@
+{
+  "scan_count": 1,
+  "runs": [
+    {
+      "run_id": "2026-W43",
+      "date": "2026-10-19",
+      "scan_index": 1,
+      "queries": 44,
+      "tech_errors": 0,
+      "new": 11,
+      "update": 0,
+      "seen": 0,
+      "hot": 3,
+      "warm": 5,
+      "background": 3
+    }
+  ]
+}

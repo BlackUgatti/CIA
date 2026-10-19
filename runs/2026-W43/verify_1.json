@@ -1,0 +1,109 @@
+[
+  {
+    "index": 0,
+    "url": "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/56504/Alatau%20Zharyk%20Grid%20Reinforcement%20Board%20Report.pdf",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Alatau Zharyk Company JSC (AZhC); owned by Samruk Energy JSC (Board Decision Sheet)"},
+      "pub_date": {"verdict": "not_found", "correct": "не указано; в тексте только дата одобрения 22 July 2026. Метаданные PDF: создан 18.08.2026, раскрытие Board report - в течение 30 дней после одобрения", "evidence": "Approved by the Board of Directors on 22 July 2026"},
+      "event_date": {"verdict": "confirmed", "evidence": "Approved by the Board of Directors on 22 July 2026"},
+      "stage": {"verdict": "confirmed", "evidence": "Board approval is sought for a senior unsecured loan (документ - Board report, одобрен 22.07.2026)"},
+      "amount": {"verdict": "confirmed", "evidence": "a senior unsecured loan to the Company in the amount of up to KZT 105 billion (EUR 187 million equivalent)"},
+      "funding": {"verdict": "confirmed", "evidence": "Pre-signing project preparation technical cooperation support ... provided by the EBRD Shareholder Special Fund (SSF); Technical assistance under the SMART programme will support the Company in strengthening sector regulation"},
+      "deadline": {"verdict": "confirmed", "evidence": "В документе дедлайна нет, поле 'не указано' корректно"},
+      "contact": {"verdict": "confirmed", "evidence": "Контактов нет, поле 'не указано' корректно"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "Kazakhstan's transmission and distribution networks are highly inefficient due to outdated equipment; ... comprehensive digitalisation strategy ... integrated smart grid architecture (планируется)"},
+      "quote": {"verdict": "confirmed", "evidence": "стр. 5: it will support the development and adoption of a comprehensive digitalisation strategy for the Company, establishing an integrated smart grid architecture to enhance network resilience... (цитата дословная, обрезана до границы фразы)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "ebrd.com, Tier 1"}
+    },
+    "notes": "other_urls[0] (timesca.com) относится к другому проекту: KEGOC, EUR 267 млн (EBRD 252 + Канада 15), статья от 4 дек 2024. К Alatau Zharyk отношения не имеет, как подтверждение использовать нельзя. pub_date в лиде (2026-07-22) совпадает с датой одобрения, а не с датой публикации документа; рекомендую заменить на 'не указано' или указать дату одобрения как event_date. Текст PDF прочитан через рендер страниц 1-12 (автоматическое извлечение текста не сработало)."
+  },
+  {
+    "index": 1,
+    "url": "https://en.apa.az/entrepreneurship/azerbaijan-preparing-digital-transformation-roadmaps-for-18-local-enterprises-this-year-529957",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Elnur Aliyev, First Deputy Minister of Economy, III National Competition Forum, Baku; программа Center for Analysis and Coordination of the Fourth Industrial Revolution"},
+      "pub_date": {"verdict": "confirmed", "evidence": "APA: 14 October 2026, 11:23 (UTC+04:00); Trend (4234626) тоже 14.10.2026"},
+      "event_date": {"verdict": "confirmed", "evidence": "Поле пустое. Форум состоялся 14.10.2026 по Trend/APA, но в лиде не указан"},
+      "stage": {"verdict": "confirmed", "evidence": "Digital transformation roadmaps are being prepared for 18 local enterprises in 2026"},
+      "amount": {"verdict": "confirmed", "evidence": "Суммы по 18 дорожным картам в тексте нет; 'не указано' корректно. Суммы USD 10,8 и 16,7 млрд в статье относятся к инвестфоруму, не к этой программе"},
+      "funding": {"verdict": "confirmed", "evidence": "state funds digital-readiness assessment and individual roadmaps for additional enterprises by 2030 (в статье это про дополнительные предприятия, не про 18)"},
+      "deadline": {"verdict": "confirmed", "evidence": "Поле пустое, дедлайна нет. Горизонты в статье: 2026 (18 карт), 2030"},
+      "contact": {"verdict": "confirmed", "evidence": "Спикер Elnur Aliyev, First Deputy Minister of Economy; контактов нет"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "SOCAR Urea Plant упомянут в Global Lighthouse Network WEF; прочего ИТ-ландшафта нет"},
+      "quote": {"verdict": "confirmed", "evidence": "the main task is to ensure that this experience is extended to a broader range of enterprises (дословно, но это косвенная речь: 'According to him', а не прямая цитата Алиева)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "apa.az, Tier 2"}
+    },
+    "notes": "Tier 1 подтверждение не найдено: поиск по economy.gov.az и 4sim.gov.az числа 18 не выдал. Нашлось только независимое подтверждение Trend (https://www.trend.az/azerbaijan/4234626.html, тоже Tier 2): но там формулировка 'received roadmaps this year' (получили), у APA 'being prepared' (готовятся). 4SIM в Trend не упомянут. Не назван ни один из 18 получателей и подрядчик. Поле funding в лиде 'для дорожных карт на период до 2030 г.' относится к дополнительным предприятиям, а не к 18 картам 2026 г."
+  },
+  {
+    "index": 2,
+    "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-digital-transformation-of-uzbekistan-railways.html",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Uzbekistan Railways (UTY), national rail operator; заёмщик по Board report - Республика Узбекистан, бенефициар UTY"},
+      "pub_date": {"verdict": "confirmed", "evidence": "17 Jun 2026 (дата под автором статьи)"},
+      "event_date": {"verdict": "confirmed", "evidence": "other_urls[1], Board report: Approved by the Board of Directors on 28 May 2026. В самой новости даты одобрения нет"},
+      "stage": {"verdict": "confirmed", "evidence": "Board report: Approved by the Board of Directors on 28 May 2026. В новости слов 'approved'/'Board' нет, подтверждение только через Board report. 'закупки ПО впереди' - в тексте нет сроков и тендера (в новости про procurement/tender ничего)"},
+      "amount": {"verdict": "confirmed", "correct": "до 38,4 млн EUR по новости ЕБРР; Board report: up to EUR 40 million", "evidence": "EBRD loan of up to €38.4 million to support the digitalisation of UTY"},
+      "funding": {"verdict": "confirmed", "evidence": "Board report: The facility will consist of a sovereign loan to the Borrower [Republic of Uzbekistan]; TC: SSF и Israel-EBRD Cooperation Account"},
+      "deadline": {"verdict": "confirmed", "evidence": "Дедлайна в тексте нет, 'не указано' корректно"},
+      "contact": {"verdict": "confirmed", "evidence": "Контактов в тексте нет"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "software for traffic management, transport management, and selected cybersecurity systems; Board report: Management systems remain largely analogue and reliant on manual processes. Подрядчик не назван (в т.ч. не определён)"},
+      "quote": {"verdict": "confirmed", "evidence": "In its first such public-sector project in Uzbekistan, the Bank will lend up to €38.4 million to UTY"},
+      "source_tier": {"verdict": "confirmed", "evidence": "ebrd.com, Tier 1"}
+    },
+    "notes": "Расхождение между источниками: новость ЕБРР (17.06.2026) - up to EUR 38.4 млн, Board report (28.05.2026) - up to EUR 40 млн. Лид совпадает с основным URL (38.4). В отчёте указано и то, что Board report содержит редакции, а Project Implementation Support (PIS) будет финансироваться за счёт займа; TC 3/4 (Digitalisation Strategy, ACAP) будут предложены донорам - это отдельные возможности. other_urls[2] (Daryo) вернул HTTP 403, не проверен; в его slug '384mn' - вероятно опечатка, ссылаться на него не стоит."
+  },
+  {
+    "index": 3,
+    "url": "https://www.uzdaily.uz/ru/uzbekistan-vnedrit-novuiu-model-upravleniia-dannymi/",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Комиссия по управлению данными с участием министерств и ведомств; президентом рассмотрены итоги переписи и предложения по реформе статистики 02.09.2026. Конкретное ведомство-исполнитель не названо"},
+      "pub_date": {"verdict": "confirmed", "evidence": "UzDaily: 2 сентября 2026, 16:40; первоисточник president.uz тоже 02.09.2026"},
+      "event_date": {"verdict": "confirmed", "evidence": "Презентация у Президента 02.09.2026"},
+      "stage": {"verdict": "confirmed", "evidence": "UzDaily: 'По итогам презентации одобрено проведение переписи бизнеса, создание Комиссии по управлению данными'. НО первоисточник president.uz/en/lists/view/9573: 'it was proposed to create a Data Management Commission' - т.е. создание комиссии там только предложено, одобрена перепись бизнеса ('a proposal was approved to conduct a business registration campaign')"},
+      "amount": {"verdict": "confirmed", "evidence": "Суммы в тексте нет. Есть только стоимость переписи на человека (не более 1,5 тыс. сумов) и цель снизить затраты на обработку данных на 25% к 2030 г., это не бюджет"},
+      "funding": {"verdict": "confirmed", "evidence": "Источник финансирования не указан"},
+      "deadline": {"verdict": "confirmed", "evidence": "До 1 декабря 2026 года она должна провести инвентаризацию систем управления данными; а до 1 мая 2027 года утвердить план их совершенствования; До 1 июля 2027 года ... Национальной платформы данных. Также перепись бизнеса 15.10-30.11.2026 (в лиде не отражена)"},
+      "contact": {"verdict": "confirmed", "evidence": "Контактов нет"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "В тексте нет описания текущих систем"},
+      "quote": {"verdict": "confirmed", "evidence": "Мирзиёев подчеркнул значение точной, оперативной и достоверной статистики для формирования государственной политики и принятия решений по развитию отраслей и регионов (дословно, но это пересказ журналиста, не прямая речь)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "uzdaily.uz, Tier 2"}
+    },
+    "notes": "Первоисточник найден (Tier 1): https://president.uz/en/lists/view/9573 (дата 02.09.2026); зеркала: https://gov.uz/en/digital/news/view/214732, https://uza.uz/en/posts/new-data-management-model-being-introduced-in-national-statistics_903010. Различие в статусе: UzDaily пишет 'одобрено', president.uz - 'предложено создать' Комиссию (поручение дано ответственным лицам использовать результаты переписи). Формулировку 'решение принято' и 'по решению Президента' в лиде следует смягчить до 'на заседании у Президента 02.09.2026 рассмотрены предложения; предложено создать Комиссию'. В тексте нет ИТ-бюджета и закупок, только госструктура и сроки. Тема - реформа статистики/data governance; тендера нет."
+  },
+  {
+    "index": 4,
+    "url": "https://gov.uz/ru/digital/news/view/189234",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "not_found", "correct": "Министерство цифровых технологий Узбекистана (издатель новости); исполнитель - 'ответственные лица' без названия", "evidence": "дал ответственным лицам конкретные поручения по интеграции данных государственных органов. Хокимията Ташкента в тексте нет, столица названа только как 'в столице'"},
+      "pub_date": {"verdict": "confirmed", "evidence": "7 июля 2026, 14:40 (обновлено 15:44)"},
+      "event_date": {"verdict": "confirmed", "evidence": "Поле пустое; дата заседания у Президента в тексте не уточнена"},
+      "stage": {"verdict": "confirmed", "evidence": "Глава нашего государства подчеркнул, что данную цифровую систему управления необходимо внедрить в этом году в столице, а начиная со следующего года – во всех регионах страны. ИИ: 'с использованием технологий искусственного интеллекта'. Это указание Президента на совещании, а не тендер"},
+      "amount": {"verdict": "confirmed", "evidence": "Суммы нет"},
+      "funding": {"verdict": "confirmed", "evidence": "Финансирование не указано"},
+      "deadline": {"verdict": "confirmed", "evidence": "в этом году в столице (2026); начиная со следующего года - во всех регионах (2027). Точных дат нет"},
+      "contact": {"verdict": "confirmed", "evidence": "Контактов нет"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "Текущих систем в тексте нет"},
+      "quote": {"verdict": "confirmed", "evidence": "данную цифровую систему управления необходимо внедрить в этом году в столице (дословно, пересказ слов Президента)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "gov.uz, Tier 1"}
+    },
+    "notes": "Упоминание 'хокимият Ташкента' в organization не подтверждено текстом - убрать или пометить как предположение; 'Ташкент' в тексте не называется, только 'столица'. Конкретный исполнитель, бюджет и закупки не указаны. Ответственный орган не назван."
+  },
+  {
+    "index": 5,
+    "url": "https://www.eib.org/en/press/all/2024-527-azerbaijan-to-digitise-public-administration-with-eur43-million-loan-from-eib-global",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Бенефициар: AzInTelecom LLC (государственное предприятие); от AzInTelecom - Elkhan Azizov, Acting Chairman of the Board; от EIB - Teresa Czerwinska, Vice-President"},
+      "pub_date": {"verdict": "confirmed", "evidence": "23 December 2024, press release 2024-527-EN"},
+      "amount": {"verdict": "confirmed", "evidence": "EUR 43 млн"},
+      "stage": {"verdict": "confirmed", "evidence": "Loan agreement signed; сроки завершения проекта - 2027"}
+    },
+    "notes": "ВНЕ ПАРТИИ (EIB Global, EUR 43 млн, Азербайджан). Пресс-релиз eib.org открылся. Дата подписания: в релизе НЕ указана (только 'signed', публикация 23.12.2024). Одно стороннее издание (tech.az, не открыто мной напрямую, только по выдаче поиска) называет церемонию подписания 20 декабря (2024) в здании AzInTelecom - не подтверждено первоисточником. Бенефициар: AzInTelecom LLC, госпредприятие, крупнейший облачный провайдер Азербайджана, первый в Южном Кавказе с сертификатом TIER 3, обслуживает 200+ организаций. Назначение: два новых дата-центра (районы Absheron и Hajigabul), 'зелёные' технологии, облачные услуги для госуправления, цель - безопаснее и быстрее госуслуги. Статус: договор подписан; ЦОД планируются, завершение 2027; ход строительства в релизе не описан. Это первый заём EIB Global госсектору Азербайджана, в рамках Economic and Investment Plan for the Eastern Partnership и Global Gateway. Событие старое (декабрь 2024), не свежий лид по датам W43. Страница проекта в базе eib.org (project pipeline) не найдена (угаданный URL вернул 404)."
+  }
+]

@@ -1,0 +1,45 @@
+combo_key,country,sector,lang,pattern,keyword,avg_score,runs,hot_runs,confirmed,irrelevant,adj_score,last_run_date,last_scan_index
+az|кросс|en|digital transformation|kapital bank pasha bank socar,AZ,кросс,en,digital transformation,Kapital Bank PASHA Bank SOCAR,75.0,1,1,0,0,75.0,2026-10-19,1
+az|кросс|en|ai solution|artificial intelligence,AZ,кросс,en,AI solution,artificial intelligence,45.0,1,0,0,0,45.0,2026-10-19,1
+az|строительство и недвижимость|ru|строительство завода|инвестиции,AZ,Строительство и недвижимость,ru,строительство завода,инвестиции,32.0,1,0,0,0,32.0,2026-10-19,1
+az|кросс|ru|платформа данных|data governance,AZ,кросс,ru,платформа данных,data governance,0.0,1,0,0,0,0.0,2026-10-19,1
+az|кросс|ru|объявлен тендер|информационная система,AZ,кросс,ru,объявлен тендер,информационная система,0.0,1,0,0,0,0.0,2026-10-19,1
+az|кросс|en|ipo|privatization,AZ,кросс,en,IPO,privatization,0.0,1,0,0,0,0.0,2026-10-19,1
+az|финансовые услуги|ru|внедрение|core banking,AZ,Финансовые услуги,ru,внедрение,core banking,0.0,1,0,0,0,0.0,2026-10-19,1
+az|fmcg и ритейл|ru|внедрение erp|ритейл,AZ,FMCG и ритейл,ru,внедрение ERP,ритейл,0.0,1,0,0,0,0.0,2026-10-19,1
+az|телеком и цифровые сервисы|en|data platform|data center,AZ,Телеком и цифровые сервисы,en,data platform,data center,0.0,1,0,0,0,0.0,2026-10-19,1
+az|агро и пищевая промышленность|ru|цифровая трансформация|агрохолдинг,AZ,Агро и пищевая промышленность,ru,цифровая трансформация,агрохолдинг,0.0,1,0,0,0,0.0,2026-10-19,1
+az|промышленность и химия|ru|модернизация|химический завод,AZ,Промышленность и химия,ru,модернизация,химический завод,0.0,1,0,0,0,0.0,2026-10-19,1
+az|кросс|az|rəqəmsal transformasiya|süni intellekt,AZ,кросс,az,rəqəmsal transformasiya,süni intellekt,0.0,1,0,0,0,0.0,2026-10-19,1
+az|госсектор и квазигос|az|informasiya sistemi tətbiq|tender,AZ,Госсектор и квазигос,az,informasiya sistemi tətbiq,tender,0.0,1,0,0,0,0.0,2026-10-19,1
+az|кросс|en|request for expressions of interest|consulting services,AZ,кросс,en,request for expressions of interest,consulting services,0.0,1,0,0,0,0.0,2026-10-19,1
+az|здравоохранение и фарма|en|project summary document|digital,AZ,Здравоохранение и фарма,en,project summary document,digital,0.0,1,0,0,0,0.0,2026-10-19,1
+az|финансовые услуги|en|tender|accessbank oracle,AZ,Финансовые услуги,en,tender,Accessbank Oracle,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|энергетика и зелёная энергетика|en|feasibility study|renewables,KZ,Энергетика и зелёная энергетика,en,feasibility study,renewables,70.0,1,1,0,0,70.0,2026-10-19,1
+kz|кросс|en|ai solution|artificial intelligence,KZ,кросс,en,AI solution,artificial intelligence,36.0,1,0,0,0,36.0,2026-10-19,1
+kz|кросс|en|ipo|privatization,KZ,кросс,en,IPO,privatization,27.0,1,0,0,0,27.0,2026-10-19,1
+kz|кросс|ru|платформа данных|data governance,KZ,кросс,ru,платформа данных,data governance,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|кросс|ru|объявлен тендер|информационная система,KZ,кросс,ru,объявлен тендер,информационная система,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|нефть и газ|en|digital transformation|oil and gas,KZ,Нефть и газ,en,digital transformation,oil and gas,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|горнодобыча и металлургия|ru|цифровая трансформация|гок,KZ,Горнодобыча и металлургия,ru,цифровая трансформация,ГОК,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|логистика и транспорт|en|request for expressions of interest|logistics,KZ,Логистика и транспорт,en,request for expressions of interest,logistics,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|финансовые услуги|ru|внедрение|core banking,KZ,Финансовые услуги,ru,внедрение,core banking,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|fmcg и ритейл|ru|внедрение erp|ритейл,KZ,FMCG и ритейл,ru,внедрение ERP,ритейл,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|кросс|kk|цифрландыру|жасанды интеллект,KZ,кросс,kk,цифрландыру,жасанды интеллект,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|телеком и цифровые сервисы|kk|ақпараттық жүйе енгізу|тендер,KZ,Телеком и цифровые сервисы,kk,ақпараттық жүйе енгізу,тендер,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|кросс|en|request for expressions of interest|consulting services,KZ,кросс,en,request for expressions of interest,consulting services,0.0,1,0,0,0,0.0,2026-10-19,1
+kz|агро и пищевая промышленность|en|project summary document|digital,KZ,Агро и пищевая промышленность,en,project summary document,digital,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|логистика и транспорт|en|project summary document|digital,UZ,Логистика и транспорт,en,project summary document,digital,70.0,1,1,0,0,70.0,2026-10-19,1
+uz|кросс|ru|платформа данных|data governance,UZ,кросс,ru,платформа данных,data governance,65.0,1,0,0,0,65.0,2026-10-19,1
+uz|госсектор и квазигос|ru|разработка информационной системы|тендер,UZ,Госсектор и квазигос,ru,разработка информационной системы,тендер,55.0,1,0,0,0,55.0,2026-10-19,1
+uz|кросс|en|ipo|privatization,UZ,кросс,en,IPO,privatization,52.0,1,0,0,0,52.0,2026-10-19,1
+uz|горнодобыча и металлургия|ru|цифровая трансформация|гок,UZ,Горнодобыча и металлургия,ru,цифровая трансформация,ГОК,51.0,1,0,0,0,51.0,2026-10-19,1
+uz|кросс|en|ai solution|artificial intelligence,UZ,кросс,en,AI solution,artificial intelligence,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|кросс|ru|объявлен тендер|информационная система,UZ,кросс,ru,объявлен тендер,информационная система,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|строительство и недвижимость|ru|строительство завода|инвестиции,UZ,Строительство и недвижимость,ru,строительство завода,инвестиции,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|промышленность и химия|ru|модернизация|химический завод,UZ,Промышленность и химия,ru,модернизация,химический завод,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|здравоохранение и фарма|en|procurement notice|health information system,UZ,Здравоохранение и фарма,en,procurement notice,health information system,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|нефть и газ|en|digital transformation|oil and gas,UZ,Нефть и газ,en,digital transformation,oil and gas,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|кросс|uz|raqamlashtirish|sun'iy intellekt,UZ,кросс,uz,raqamlashtirish,sun'iy intellekt,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|энергетика и зелёная энергетика|uz|axborot tizimi joriy etish|tender,UZ,Энергетика и зелёная энергетика,uz,axborot tizimi joriy etish,tender,0.0,1,0,0,0,0.0,2026-10-19,1
+uz|кросс|en|request for expressions of interest|consulting services,UZ,кросс,en,request for expressions of interest,consulting services,0.0,1,0,0,0,0.0,2026-10-19,1
