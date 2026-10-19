@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {"code": "KZ", "name": "Казахстан", "search_langs": ["ru", "en", "kk"]},
+    {"code": "AZ", "name": "Азербайджан", "search_langs": ["ru", "en", "az"]},
+    {"code": "UZ", "name": "Узбекистан", "search_langs": ["ru", "en", "uz"]}
+  ],
+  "sectors": [
+    "Нефть и газ",
+    "Горнодобыча и металлургия",
+    "Энергетика и зелёная энергетика",
+    "Логистика и транспорт",
+    "Финансовые услуги",
+    "FMCG и ритейл",
+    "Телеком и цифровые сервисы",
+    "Агро и пищевая промышленность",
+    "Строительство и недвижимость",
+    "Промышленность и химия",
+    "Госсектор и квазигос",
+    "Здравоохранение и фарма"
+  ],
+  "priority_sectors": [],
+  "params": {
+    "min_queries_per_country": 10,
+    "cross_queries_per_country": 4,
+    "max_queries_per_country": 14,
+    "exploration_share": 0.2,
+    "mandatory_min_avg": 60,
+    "mandatory_min_runs": 2,
+    "mandatory_max_share": 0.6,
+    "rare_max_avg": 25,
+    "rare_min_runs": 3,
+    "rare_every_n_scans": 5,
+    "stale_days": 56,
+    "freshness_days": 30,
+    "hot_threshold": 70,
+    "warm_threshold": 40,
+    "warm_max": 15,
+    "background_max": 10,
+    "small_deal_usd": 100000,
+    "verify_min_score": 60,
+    "account_window_days": 56,
+    "known_leads_days": 180
+  },
+  "keywords": {"ru": [], "en": [], "kk": [], "az": [], "uz": []},
+  "patterns": {"ru": [], "en": [], "kk": [], "az": [], "uz": []},
+  "watchlist": [],
+  "sources_extra": []
+}
