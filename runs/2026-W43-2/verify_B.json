@@ -1,0 +1,97 @@
+[
+  {
+    "index": 0,
+    "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-contributing-to-modernisation-of-kazakhstan-national-grid.html",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Alatau Zharyk Company (AZhC), fully owned subsidiary of Samruk Energy (press release, PSD 56504)"},
+      "pub_date": {"verdict": "confirmed", "evidence": "Пресс-релиз ЕБРР 07 Sep 2026. Astana Times перепечатала 2026-09-09 (Tier 2)"},
+      "event_date": {"verdict": "confirmed", "evidence": "2026-07-22 (одобрение Советом) есть в PSD 56504 (22 Jul 2026) и в Board report (Approved by the Board of Directors on 22 July 2026). В самом пресс-релизе даты нет"},
+      "stage": {"verdict": "confirmed", "correct": "Заём одобрен 2026-07-22, статус PSD Signed. GPN от 2026-05-16 подтверждён. Формулировка 'конкретные тендеры не найдены' устарела: Tender No.1 уже объявлен (см. notes)", "evidence": "PSD: Status Signed, Board approval 22 Jul 2026"},
+      "amount": {"verdict": "confirmed", "evidence": "Пресс-релиз: up to KZT 102 billion (about EUR 194 million). GPN (tenderdetail): KZT 102,356,169,000 (стоимость проекта). PSD 56504 и Board report: senior loan up to KZT 105 billion (EUR 187 млн). Расхождение 102 и 105 млрд есть в первоисточниках, тип суммы в лиде указан верно"},
+      "funding": {"verdict": "confirmed", "evidence": "GPN: financed by EBRD loan and grant; Board report: National Project 'Modernisation of the Energy and Utilities Sectors'. Грант: в GPN упомянут, в PSD нет (в PSD только 3 ТС по 75 000 EUR из SSF)"},
+      "deadline": {"verdict": "not_found", "evidence": "Будущего дедлайна не найдено. 'Deadline 16-06-2026 Closed' в зеркале tenderdetail касается GPN и не является сроком подачи. Tender No.1 закрыт 2026-07-27 (в прошлом)"},
+      "contact": {"verdict": "confirmed", "correct": "Контакт ЕСТЬ на странице ЕБРР (Tier 1): PSD 56504, Mr A. Slambekov (должность не указана), aslambekov@azhk.kz, +7 (727) 376-17-10. Пометку 'не по странице EBRD' надо убрать. На странице пресс-релиза контакта нет (только автор Anton Usov)", "evidence": "PSD 56504 client contact: Mr A. Slambekov, aslambekov@azhk.kz, +7 (727) 376-17-10"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "'не указано' допустимо. Для справки: Board report упоминает умные счётчики, пилот smart grid, разработку Digitalisation Strategy компании и ТС по кибербезопасности"},
+      "quote": {"verdict": "confirmed", "evidence": "The project will support further digitalisation of AZhC through the installation of smart meters at substations"},
+      "source_tier": {"verdict": "confirmed", "evidence": "ebrd.com = Tier 1; tenderdetail.com и ewsdata = Tier 3 (зеркала); astanatimes.com = Tier 2"}
+    },
+    "notes": "check_also: (1) Пресс-релиз 2026-09-07: до 102 млрд KZT (около 194 млн EUR), умные счётчики на подстанциях, пилот smart grid-технологий, усиление кибербезопасности AZhC и на уровне Samruk-Energy. Все пункты подтверждены. (2) PSD 56504 доступна: Status Signed; disclosure 22 May 2026, last updated 22 May 2026 (более поздней даты обновления PSD нет); Board approval 22 Jul 2026; контакт Mr A. Slambekov (без должности), aslambekov@azhk.kz, +7 (727) 376-17-10; total project cost KZT 105 млрд; ТС x3 по 75 000 EUR (ESDD, TDD, Advance Procurement Support); закупочных уведомлений на странице нет. Самый свежий документ: Board report (метаданные PDF от 2026-08-18), самая свежая публикация: пресс-релиз 2026-09-07 (Astana Times 2026-09-09). (3) GPN 2026-05-16 (tenderdetail GTR 113262583/113262584, Tier 3): Tender No.1 Smart Grid и автоматизированные системы учёта; No.2 строительство подстанций и ЛЭП (3 лота); No.3 технадзор и ТС-консалтинг (ESDD, TDD, закупочная поддержка, мониторинг). Закупки идут через ECEPP, зарегистрированные получают уведомления. (4) Конкретные тендеры: Tender No.1 'Kazakhstan: Smart Grid & Automated Metering Systems', клиент JSC Alatau Zharyk Company, опубликован 26/06/2026, срок 27/07/2026 (ccp.pt, список ECEPP-закупок от 2026-07-17, Tier 3; GTAI, ECEPP ID 45086899, deadline 27.07.2026, прочитано только в сниппете поиска, страница закрыта капчей и текст за логином). Срок ИСТЁК (на 2026-10-19). Tender No.3 (технадзор, TC-консалтинг), REOI или RFP на ECEPP не найден. Будущего дедлайна нет. (5) Board report: PIS-консультант (Project Implementation Support Consultant) упомянут как митигация рисков, возможна будущая закупка, но её уведомления нет. Присутствует упоминание ТС по кибербезопасности (technical assistance to strengthen cybersecurity framework) и разработки Digitalisation Strategy для компании. Ограничение: страницы читались через модель-экстрактор, ECEPP-страницу Tender No.1 открыть не удалось."
+  },
+  {
+    "index": 1,
+    "url": "https://www.ebrd.com/home/work-with-us/projects/psd/55651.html",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "PSD: UTY Digitalisation; borrower Republic of Uzbekistan for the benefit of JSC 'Uzbekistan Temir Yollari' (Board report)"},
+      "pub_date": {"verdict": "contradicted", "correct": "Для url PSD 55651: disclosure 15 Sep 2025 (EWS: 14 Sep 2025), last updated 01 Apr 2026. Дата 2026-06-17 относится к пресс-релизу ЕБРР (other_urls), а не к PSD", "evidence": "PSD disclosure date 15 Sep 2025; last updated 01 Apr 2026; пресс-релиз 17 June 2026"},
+      "event_date": {"verdict": "confirmed", "evidence": "Board approval 28 May 2026 (PSD и Board report). GTAI: финансирование одобрено 11.06.2026"},
+      "stage": {"verdict": "confirmed", "correct": "PSD показывает Status Disbursing (заём подписан и выплачивается); 'заём одобрен' верно, но стоит добавить статус Disbursing", "evidence": "PSD: Status Disbursing"},
+      "amount": {"verdict": "confirmed", "evidence": "PSD: EBRD loan EUR 40,000,000, total project cost EUR 45,000,000. Board report: sovereign loan of up to EUR 40 million. Пресс-релиз: up to EUR 38.4 million"},
+      "funding": {"verdict": "partial", "evidence": "TC1 EUR 75,000 (SSF, Digital Transformation Support Programme) и TC2 EUR 30,000 (Israel-EBRD Cooperation Account) подтверждены Board report. Утверждение 'пост-подписные ТС будут предложены донорам' не найдено: Board report по TC3/TC4 Cost sharing: [REDACTED]"},
+      "deadline": {"verdict": "not_found", "evidence": "Дедлайна нет ни в PSD, ни в Board report, ни в пресс-релизе, ни у GTAI"},
+      "contact": {"verdict": "confirmed", "evidence": "PSD: Ulugbek Dosmetov, u.dosmetov@uzrailway.uz, +998712388222. Закупки через ЕБРР (state-sector): procurement@ebrd.com, +44 20 7338 6794. Должность не указана"},
+      "it_landscape": {"verdict": "contradicted", "correct": "ИТ-ландшафт описан частично: системы управления в основном аналоговые и ручные (freight scheduling, asset tracking, ticketing, financial reporting). Закупки: traffic management, transport management, отдельные cybersecurity-системы", "evidence": "Board report: 'Management systems remain largely analogue and reliant on manual processes, resulting in inefficiencies across freight scheduling, asset tracking, ticketing, and financial reporting.'"},
+      "quote": {"verdict": "contradicted", "correct": "Цитата не дословна: это склейка двух фрагментов Board report из списка Use of Proceeds с изменённой пунктуацией. На странице PSD другая формулировка: 'introduction of software for traffic management, transport management, and selected cybersecurity systems'", "evidence": "Board report: '- traffic management software system; - transport management software system; - selected cybersecurity software systems. 2. Technical Support during Project implementation, including: - the PIS consultancy services.'"},
+      "source_tier": {"verdict": "confirmed", "evidence": "ebrd.com, PSD и Board report = Tier 1; gtai.de = Tier 2 (госагентство Германии, страница закрыта капчей)"}
+    },
+    "notes": "check_also: контакт Ulugbek Dosmetov подтверждён на PSD (email и телефон как в лиде). Статус проекта: Disbursing. Сумма 40 млн EUR и общая стоимость 45 млн EUR подтверждены. Даты PSD: disclosed 15 Sep 2025, last updated 01 Apr 2026 (до даты Совета 28 May 2026, возможна несогласованность на самой странице). Board report PDF создан 2026-06-26. TC3 подтверждён: post-signing, Institutional support - Digitalisation Strategy (стратегия цифровизации, roadmap, cross-system architecture, governance); TC4 ACAP (антикоррупция). TC1 в PSD называется Digitalisation Study (в Board report Digital Assessment Study). Procurement notice: GTAI (сниппет поиска, прямое открытие заблокировано) указывает предварительное объявление 'Consulting Digitalisierung usbekische Eisenbahn' с ECEPP ID 44466162, проект 55651. Срок и текст не проверены; страницу ECEPP открыть не удалось. Конкретный RFP/REOI на PIS-консультанта или ТС по стратегии с будущим дедлайном не найден. Найденные ECEPP-уведомления 'PIS Consultant' относятся к другому проекту (Uzbekistan Airports, ID 54085, закрыт в 2024). Пресс-релиз: сумма до 38,4 млн EUR, PIS-консалтинг не упомянут, именного контакта нет."
+  },
+  {
+    "index": 2,
+    "url": "https://www.spot.uz/ru/2026/09/02/statistics-reform/",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "partial", "evidence": "Spot.uz: Комиссия по управлению данными предложена, рабочий орган не назван. 'Национальный комитет по статистике' как рабочий орган указан только на advice.uz (Tier 3)"},
+      "pub_date": {"verdict": "confirmed", "evidence": "Spot.uz, 2 сентября 2026, 17:04"},
+      "event_date": {"verdict": "partial", "evidence": "2026-09-10 (УП-190) есть только на advice.uz: 'Указ Президента PF-190 от 10 сентября 2026 года, в силе с 12 сентября 2026'. В Spot.uz даты указа нет (статья от 2 сентября). Lex.uz или president.uz с текстом указа не найдены"},
+      "stage": {"verdict": "partial", "correct": "Spot.uz, uzdaily и president.uz (2 сентября) описывают ПРЕДЛОЖЕНИЯ, одобренные президентом; комиссия 'предлагается'. Принятие указа подтверждено только advice.uz (Tier 3)", "evidence": "president.uz 9573: 'proposed to create the Commission'"},
+      "amount": {"verdict": "confirmed", "evidence": "Суммы нет ни в одном источнике"},
+      "funding": {"verdict": "confirmed", "evidence": "Не указано"},
+      "deadline": {"verdict": "confirmed", "evidence": "1 декабря 2026 (инвентаризация систем управления данными). Дата в будущем относительно 2026-10-19. Это внутренний срок комиссии, не тендер"},
+      "contact": {"verdict": "confirmed", "evidence": "Контактов нет"},
+      "it_landscape": {"verdict": "partial", "evidence": "Spot.uz: Национальная платформа данных должна интегрировать данные в единую систему; проектный офис открытых данных и рейтинг открытых данных подтверждены. Формулировки про 'разрозненные ведомственные базы' в Spot.uz не нашёл (возможно, это пересказ)"},
+      "quote": {"verdict": "contradicted", "correct": "До 1 декабря 2026 года комиссия проведет инвентаризацию систем управления данными в государственных органах и организациях", "evidence": "Spot.uz: 'До 1 декабря 2026 года комиссия проведет инвентаризацию систем управления данными в государственных органах и организациях'. Цитата в лиде ('она должна провести') не дословна"},
+      "source_tier": {"verdict": "contradicted", "correct": "spot.uz = Tier 2 верно. Указ подтверждён только через advice.uz (Tier 3). Tier 1 (lex.uz) не найден; president.uz/en/lists/view/9573 содержит новость от 2 сентября, а не текст указа", "evidence": "Поиск по lex.uz текст УП-190 не дал"}
+    },
+    "notes": "check_also: Указ УП-190 от 2026-09-10 'Measures to improve the administrative data management system of government bodies and organizations' подтверждён по advice.uz/ru/document/4802 (Tier 3): создаётся Комиссия по управлению данными; рабочий орган: Национальный комитет по статистике; ежеквартальный отчёт Республиканскому совету по статистике; Положение о Комиссии в течение 3 месяцев (проект в Кабмин); инвентаризация до 2026-12-01; план до 2027-05-01. Вступил в силу 2026-09-12. Расхождение: advice.uz относит 1 июля 2027 к аудиту административных данных раз в два года, тогда как платформа данных до 2027-07-01 прописана в новостях Spot.uz, uzdaily и president.uz (2 сентября, Tier 1/2), а в advice.uz не найдена. Текст на lex.uz не найден (поиск дал только advice.uz). Номер указа в Spot.uz, uzdaily и president.uz не указан. Рекомендация: дать лиду ссылку на advice.uz с пометкой Tier 3 или найти lex.uz. Ограничение: advice.uz пересказан экстрактором, оригинал указа не видел."
+  },
+  {
+    "index": 3,
+    "url": "https://en.apa.az/entrepreneurship/azerbaijan-preparing-digital-transformation-roadmaps-for-18-local-enterprises-this-year-529957",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "APA: First Deputy Minister of Economy Elnur Aliyev; программа Center for Analysis and Coordination of the Fourth Industrial Revolution (4SIM)"},
+      "pub_date": {"verdict": "confirmed", "evidence": "APA 14 October 2026, 11:23 (UTC+04:00), выступление на III National Competition Forum в Баку"},
+      "event_date": {"verdict": "confirmed", "evidence": "Выступление 2026-10-14"},
+      "stage": {"verdict": "confirmed", "evidence": "Дорожные карты цифровой трансформации готовятся для 18 местных предприятий в 2026 г."},
+      "amount": {"verdict": "confirmed", "evidence": "Бюджет не указан (ни APA, ни Trend 4201338, ни APA 486050 суммы не называют)"},
+      "funding": {"verdict": "confirmed", "evidence": "APA: на 2030 запланированы индивидуальные дорожные карты цифровой и зелёной трансформации за счёт государства; финансирование 2026-х карт не указано. Trend 4201338: Digital Economy Development Support Program, стратегия 2026-2029. APA 486050: гранты и льготные кредиты без сумм"},
+      "deadline": {"verdict": "not_found", "evidence": "Дедлайна нет ни в одном источнике"},
+      "contact": {"verdict": "confirmed", "evidence": "Elnur Aliyev (First Deputy Minister) подтверждён APA. Fariz Jafarov, Executive Director of the Center for Analysis and Coordination of the Fourth Industrial Revolution (4SIM) подтверждён Trend 2026-06-24. Контактных данных нет"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "Не указано. Trend: оценены технологическая готовность и устойчивость по международным методикам"},
+      "quote": {"verdict": "confirmed", "evidence": "APA: 'the main task is to ensure that this experience is extended to a broader range of enterprises' (речь о SOCAR Urea Plant в Global Lighthouse Network)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "apa.az, trend.az = Tier 2. Tier 1 (economy.gov.az, 4sim.gov.az) по теме не найден"}
+    },
+    "notes": "check_also: Trend 4201338 (24 июня 2026): секторы участников - retail, food processing, construction, industrial goods, metallurgy, industrial manufacturing; более 400 потенциальных инициатив и более 160 практик устойчивости оценены, около 80 приоритетных решений с технической, операционной и финансовой оценкой; Fariz Jafarov - Executive Director 4SIM; всё подтверждено. APA 486050 датирована 2025-12-10 (а не 2026), это анонс 'Support Program for the Development of the Digital Economy' по стратегии 2026-2029: гранты и льготные кредиты для МСП и крупных компаний без сумм; не менее 10 предприятий получат выгоду от механизма поддержки, не менее 12 получат помощь по цифровой трансформации - подтверждено. Механизм привлечения консультантов в источниках не найден. Tier 1 (economy.gov.az, 4sim.gov.az) не найден (поиск вернул только СМИ и старые релизы 4SIM). Расхождение: в LinkedIn-посте, связанном с 4SIM, названо 15 предприятий, APA и Trend (4234626) пишут 18; для лида брать 18 (Tier 2). Trend называет SOCAR Carbamide Plant, APA - Urea Plant. Ограничение: LinkedIn-пост не открывал, только сниппет поиска."
+  },
+  {
+    "index": 4,
+    "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-expansion-of-abris-distribution-kazakhstan.html",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "PSD 57265 'DFF Abris Kazakhstan'; клиент Abris Distribution - Kazakhstan LLP"},
+      "pub_date": {"verdict": "confirmed", "evidence": "Пресс-релиз ЕБРР 21 Sep 2026. PSD раскрыт 23 Jul 2026 (last updated 23 Jul 2026)"},
+      "event_date": {"verdict": "confirmed", "evidence": "Board approval 21 Jul 2026: PSD 57265 (timeline) и EWS (voting date Jul 21, 2026). В пресс-релизе даты Совета нет"},
+      "stage": {"verdict": "confirmed", "correct": "Кредит одобрен 2026-07-21; статус PSD: Signed", "evidence": "PSD 57265: Status Signed"},
+      "amount": {"verdict": "confirmed", "evidence": "Пресс-релиз: up to US$ 11 million (EUR 9.6 million). PSD 57265: up to US$10 млн на оборотный капитал и up to US$1 млн digital capex. В пресс-релизе разбивки нет, она есть только в PSD"},
+      "funding": {"verdict": "confirmed", "evidence": "PSD: senior loan. Дополнительно: грант ТС до 75 000 EUR по Digital Transformation Support Programme"},
+      "deadline": {"verdict": "confirmed", "evidence": "Дедлайна нет, это не тендер"},
+      "contact": {"verdict": "confirmed", "correct": "Контакт есть на PSD 57265 (ebrd.com, Tier 1): Andrey Loponov, Andrey.Loponov@abrisdc.com. Пометку 'на странице EBRD контактов нет' надо уточнить: нет в пресс-релизе, но есть в PSD", "evidence": "PSD 57265: Contact name Andrey Loponov, Andrey.Loponov@abrisdc.com"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "Не указано"},
+      "quote": {"verdict": "confirmed", "evidence": "accelerate Abris’ digital transformation, particularly through the adoption of digital technologies (в оригинале апостроф типографский, в лиде прямой)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "ebrd.com = Tier 1; ewsdata = Tier 3. PSD 57265 нет в other_urls, стоит добавить"}
+    },
+    "notes": "check_also: пресс-релиз 2026-09-21: до 11 млн USD подтверждено; цифровая часть (до 1 млн USD digital capex) в пресс-релизе не названа, но подтверждена PSD 57265 на ebrd.com. Должность контакта не указана. Дата Совета 2026-07-21 подтверждена PSD/EWS. Цитата подтверждена. Тендера нет: это кредит частной компании (дистрибьютор ИТ-вендоров), закупок через ECEPP нет."
+  }
+]

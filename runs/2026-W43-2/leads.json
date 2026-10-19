@@ -1,0 +1,642 @@
+[
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "AZ-Q08",
+  "country": "AZ",
+  "sector": "Логистика и транспорт",
+  "organization": "Azerbaijan Railways CJSC (ADY)",
+  "trigger": "T5",
+  "title": "Invitation for Bids: Loan 4497-AZE Azerbaijan Railways Digital Transformation Project, IT-09 Procurement HR (SAP SuccessFactors - SaaS)",
+  "url": "https://www.adb.org/node/1184016",
+  "other_urls": [
+   "https://www.adb.org/node/1181981",
+   "https://www.adb.org/node/1172326"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-10-13",
+  "event_date": "",
+  "stage": "открытый международный тендер (ADB, single stage two envelope, 75:25); уведомление 13.10.2026 — третья редакция (дедлайны 02.10 и 15.10 переносились)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "сумма контракта в уведомлении не указана",
+   "usd_approx": ""
+  },
+  "funding": "ADB, Loan 4497-AZE (Azerbaijan Railways Digital Transformation Project)",
+  "deadline": "2026-10-22",
+  "contact": "PIU Procurement Team ADY: u.binnatova@ady.az, nu.salahov@ady.az, тел. +994 12 499 43 56, +994 12 499 33 84; заявки подаются на имя Mr. Arif Agayev, Deputy Chairman ADY (адресат подачи)",
+  "it_landscape": "SAP SuccessFactors: Employee Central (1 800 подписок), Performance & Goals, Career Development & Succession, LMS (по 1 650) на 36 мес.; услуги внедрения 6–18 мес.; ADY параллельно готовит программу SAP ERP",
+  "quote": "Deadline for Submission of Bids: 22 October 2026, 15:00 hours (Baku local time)",
+  "modifiers": [],
+  "cap": "",
+  "verified": "yes",
+  "service_lines": [
+   "IS"
+  ],
+  "why_now": "Гипотеза: ADY ведёт цифровую трансформацию на заём ADB 4497-AZE; HR-контур (SuccessFactors) — первый пакет, за ним SAP ERP. Участие (или субподряд у SAP-партнёра) даёт вход в программу.",
+  "solution": "Гипотеза: [IS] внедрение SAP SuccessFactors (дизайн, интеграция, миграция данных, обучение) в консорциуме с сертифицированным SAP-партнёром; затем позиционирование на ERP-пакет.",
+  "risks": "Дедлайн 22.10.2026 — через 3 дня; квалификация: оборот ≥ US$1,6 млн и 2 контракта по US$750 тыс.; вероятно нужен статус SAP-партнёра; дедлайн уже переносился дважды; часть лота — SaaS-подписки.",
+  "next_step": "Сегодня: запросить тендерную документацию у PIU ADY (e-mail из уведомления), оценить квалификацию и найти SAP SuccessFactors-партнёра для консорциума; если не успеваем — выйти на победителя как субподрядчик.",
+  "reasoning": "Открытый тендер ADB на внедрение ИС, дедлайн и именной контакт",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 10,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "AZ-X02",
+  "country": "AZ",
+  "sector": "Логистика и транспорт",
+  "organization": "Baku Metropolitan CJSC (Baku Metro)",
+  "trigger": "T5",
+  "title": "ADB approves $302 million loan to modernize Baku Metro signaling and digital operations",
+  "url": "https://www.adb.org/news/adb-approves-302-million-loan-modernize-baku-metro-signaling-and-digital-operations",
+  "other_urls": [
+   "https://www.adb.org/projects/59447-001/main",
+   "https://www.trend.az/azerbaijan/4233962.html"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-10-13",
+  "event_date": "2026-10-12",
+  "stage": "кредит одобрен, закупки впереди (на странице ADB Procurement Plan от сентября 2026; консалтинговых уведомлений нет)",
+  "amount": {
+   "value": "302,38 млн",
+   "currency": "USD",
+   "type": "кредит ADB (весь проект 515,07 млн USD: AIIB 79,98 млн, правительство 132,71 млн)",
+   "usd_approx": ""
+  },
+  "funding": "ADB Loan 04822 (US$ 302,38 млн), AIIB Loan 08545 (US$ 79,98 млн), правительство Азербайджана",
+  "deadline": "",
+  "contact": "ADB: Ji Woon Kang, project officer (SD1-TRA); исполнитель — Baku Metropolitan CJSC",
+  "it_landscape": "Цифровые системы корпоративных функций, управление активами, кибербезопасность, информирование пассажиров, модернизация дата-центров и сети, использование операционных и корпоративных данных; замена сигнализации на communications-based train control",
+  "quote": "This project marks an important milestone in transforming Baku Metro into a future-ready urban transport system",
+  "modifiers": [],
+  "cap": "",
+  "verified": "yes",
+  "service_lines": [
+   "IS",
+   "DG",
+   "RM"
+  ],
+  "why_now": "Гипотеза: заём одобрен 12.10.2026, Procurement Plan есть, консалтинговые пакеты ещё не объявлены — окно для позиционирования до публикации REOI.",
+  "solution": "Гипотеза: [RM] оценка и дорожная карта цифровых операций метро, [IS] EAM/корпоративные системы и PMO, [DG] модель данных эксплуатации и обслуживания.",
+  "risks": "ИТ-часть бюджета не выделена (сумма — весь проект с сигнализацией CBTC); крупные пакеты уйдут международным интеграторам; закупки по правилам ADB/AIIB.",
+  "next_step": "Мониторить ADB 59447-001 (procurement plan, CSRN) и выйти на PIU Baku Metropolitan CJSC; подготовить консорциум для консалтинговых пакетов по цифровым операциям.",
+  "reasoning": "Свежий заём ИФИ с цифровым компонентом, масштаб, контакт, окно открыто",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "UZ-Q10",
+  "country": "UZ",
+  "sector": "Энергетика и зелёная энергетика",
+  "organization": "АО «National Electric Grid of Uzbekistan» (NEGU)",
+  "trigger": "T5",
+  "title": "ADB, Uzbekistan Sign $200 Million Power Modernization Loan",
+  "url": "https://www.adb.org/news/adb-uzbekistan-sign-200-million-power-modernization-loan",
+  "other_urls": [
+   "https://www.adb.org/projects/58309-001/main",
+   "https://kun.uz/en/news/2026/10/16/adb-signs-200-million-loan-agreement-to-modernize-uzbekistans-power-distribution-network",
+   "https://daryo.uz/en/2026/10/16/adb-signs-200mn-loan-agreement-with-uzbekistan-to-modernize-electricity-networks/"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-10-15",
+  "event_date": "2026-10-15",
+  "stage": "заём подписан 15.10.2026; статус на странице проекта — Proposed; плана закупок нет; возможен найм program implementation consultant (PIC) и специализированных консультантов; ВБ выносит +100 млн USD на Совет «later this month»",
+  "amount": {
+   "value": "200 млн",
+   "currency": "USD",
+   "type": "заём АБР (программа в целом 371 млн USD, результато-ориентированное кредитование, софинансирование ВБ)",
+   "usd_approx": ""
+  },
+  "funding": "ADB (ведущий кредитор), Всемирный банк (Full Mutual Reliance Framework); TA 650 000 USD из TASF",
+  "deadline": "",
+  "contact": "ADB: Alfredo Bano, project officer (SD1-ENE), страница проекта 58309-001; исполнитель — JSC National Electric Grid of Uzbekistan (PMU)",
+  "it_landscape": "По странице проекта: modernize, augment, and digitalize priority 35–110 kV substations; automated process control, automated power accounting, digital metering; power system digitalization, cybersecurity measures",
+  "quote": "introduce digital systems to improve management of the network",
+  "modifiers": [],
+  "cap": "",
+  "verified": "partial",
+  "service_lines": [
+   "RM",
+   "IS",
+   "DG"
+  ],
+  "why_now": "Гипотеза: заём подписан 15.10.2026, плана закупок ещё нет — NEGU будет нанимать PIC и специализированных консультантов, в т.ч. по цифровизации и кибербезопасности.",
+  "solution": "Гипотеза: [RM] дорожная карта цифровизации сетей и кибербезопасности NEGU, [IS] интеграция АСУ ТП/АСКУЭ с корпоративными системами, [DG] данные учёта.",
+  "risks": "ИТ-доля в программе 371 млн USD не выделена; закупки по национальным процедурам; основной объём — оборудование и монтаж подстанций.",
+  "next_step": "Связаться с PMU NEGU и ответственным сотрудником ADB по проекту 58309-001; отслеживать публикацию procurement plan и найм PIC.",
+  "reasoning": "Свежий заём ADB с цифровизацией и кибербезопасностью, масштаб, контакт",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "AZ-X01",
+  "country": "AZ",
+  "sector": "Логистика и транспорт",
+  "organization": "Azerbaijan Railways CJSC (ADY)",
+  "trigger": "T5",
+  "title": "Invitation to Early Market Engagement Activity: SAP ERP Transformation Program (ADY)",
+  "url": "https://www.adb.org/node/1173231",
+  "other_urls": [
+   "https://www.trend.az/business/4218775.html"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-08-26",
+  "event_date": "2026-09-04",
+  "stage": "предтендер: EME проведён 04.09.2026, запуск закупки SAP ERP Implementation Partner ожидается в Q4 2026",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "в уведомлении сумма не указана",
+   "usd_approx": ""
+  },
+  "funding": "планируется финансирование ADB (по тексту уведомления: Program is planned to be financed by ADB)",
+  "deadline": "",
+  "contact": "ADY Project Implementation Unit, Dilara Aliyeva Street 1A, Baku AZ1010; e-mail u.binnatova@ady.az и nu.salahov@ady.az",
+  "it_landscape": "Программа SAP ERP на уровне всего предприятия (по уведомлению EME); номер займа в уведомлении не указан. Параллельно ADY закупает SAP SuccessFactors по займу ADB 4497-AZE (IT-09, отдельное уведомление)",
+  "quote": "ADY is now preparing to launch the procurement process for selection of an SAP ERP Implementation Partner",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "yes",
+  "service_lines": [
+   "IS",
+   "DG",
+   "RM"
+  ],
+  "why_now": "Гипотеза: после EME 04.09.2026 ADY готовит закупку SAP ERP Implementation Partner в Q4 2026 — время собирать консорциум.",
+  "solution": "Гипотеза: [IS] роль в консорциуме SAP ERP (миграция данных, интеграции, обучение), [DG] мастер-данные и качество данных, [RM] PMO/контроль качества внедрения на стороне заказчика.",
+  "risks": "Требуется опыт крупных SAP ERP; сумма не раскрыта в первоисточнике; сроки закупки могут сдвинуться.",
+  "next_step": "Связаться с PIU ADY, запросить материалы EME и сроки объявления; договориться с SAP-интеграторами о консорциуме.",
+  "reasoning": "Предтендер ERP на заём ADB, без суммы и точной даты",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 5,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "AZ-Q06",
+  "country": "AZ",
+  "sector": "Горнодобыча и металлургия",
+  "organization": "AzerGold CJSC",
+  "trigger": "T7",
+  "title": "AzerGold approves Digital Action Plan for the current year (2026 plan under Digital Transformation Roadmap 2025-2028)",
+  "url": "https://www.azergold.az/en/media/press-relizler/azergoldun-cari-il-uzre-reqemsal-fealiyyet-plani-tesdiq-edilib",
+  "other_urls": [
+   "https://www.azergold.az/en/media/press-relizler/azergold-qsc-reqemsal-transformasiya-uzre-yeni-merheleye-baslayib",
+   "https://www.trend.az/business/4226895.html"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-03-17",
+  "event_date": "2026-03-17",
+  "stage": "планирование (план на 2026, закупка не объявлена)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "бюджет не указан",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "общие контакты компании: тел. +994 12 505 02 02, Baku, Mikayil Mushfig street 2H; именного контакта нет",
+  "it_landscape": "Единая архитектура интеграции операционных, технических и финансовых данных, централизованная платформа данных, единое хранилище (DWH); ИИ-технологии с 2028",
+  "quote": "the unified data infrastructure to be established will serve as the core technological foundation for future stages",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "",
+  "service_lines": [
+   "DG",
+   "IS",
+   "AI"
+  ],
+  "why_now": "Гипотеза: план 2026 предусматривает единую платформу данных и DWH — подрядчика ещё нет.",
+  "solution": "Гипотеза: [DG] архитектура и модель данных, [IS] DWH/BI, затем [AI] с 2028.",
+  "risks": "Тендер не объявлен; публикация от марта; возможна собственная команда или партнёр.",
+  "next_step": "Выйти на руководство цифровой трансформации AzerGold с предложением по архитектуре данных.",
+  "reasoning": "Прямой DG/DWH-план, но без тендера, суммы и контакта; устарело",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 5,
+   "window": 5
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "AZ-X11",
+  "country": "AZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Министерство цифрового развития и транспорта Азербайджана",
+  "trigger": "T5",
+  "title": "Azerbaijan, World Bank discuss support for AI-based infrastructure",
+  "url": "https://www.trend.az/azerbaijan/4232617.html",
+  "other_urls": [],
+  "source_tier": 2,
+  "pub_date": "2026-10-08",
+  "event_date": "2026-10-08",
+  "stage": "обсуждение (проект не оформлен)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "на цифровую и ИИ-поддержку сумма не названа",
+   "usd_approx": ""
+  },
+  "funding": "возможная поддержка Всемирного банка; привязка к Плану действий по ускорению цифрового развития 2026-2028",
+  "deadline": "",
+  "contact": "Rashad Hasanov, замминистра цифрового развития и транспорта; Sasha Bakes, Country Manager ВБ по Азербайджану",
+  "it_landscape": "Обсуждались дата-центры, Government Cloud, обучение по кибербезопасности, цифровые навыки",
+  "quote": "не указано (прямых цитат в статье нет)",
+  "modifiers": [],
+  "cap": "background",
+  "verified": "",
+  "service_lines": [
+   "AI",
+   "IS"
+  ],
+  "why_now": "Гипотеза: ВБ и Минцифры обсуждают поддержку ИИ-инфраструктуры и Government Cloud — возможный будущий проект ВБ.",
+  "solution": "Гипотеза: [AI]/[IS] консалтинг по Government Cloud и ИИ-инфраструктуре, если проект оформится.",
+  "risks": "Только обсуждение, суммы и проекта нет.",
+  "next_step": "Отслеживать появление проекта ВБ (pipeline) по цифровой инфраструктуре Азербайджана.",
+  "reasoning": "Обсуждение без проекта, суммы и срока",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 0,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "KZ-X03",
+  "country": "KZ",
+  "sector": "Телеком и цифровые сервисы",
+  "organization": "Abris Distribution - Kazakhstan LLP",
+  "trigger": "T3",
+  "title": "EBRD supports expansion of Abris Distribution in Kazakhstan (DFF Abris Kazakhstan, 57265)",
+  "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-expansion-of-abris-distribution-kazakhstan.html",
+  "other_urls": [
+   "https://www.ebrd.com/home/work-with-us/projects/psd/57265.html",
+   "https://ewsdata.rightsindevelopment.org/projects/EBRD-57265/"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-09-21",
+  "event_date": "2026-07-21",
+  "stage": "кредит одобрен (Совет ЕБРД 21.07.2026); по PSD до 1 млн USD — digital capex",
+  "amount": {
+   "value": "до 1 млн",
+   "currency": "USD",
+   "type": "ИТ-бюджет (digital capex) в составе кредита ЕБРР до 11 млн USD",
+   "usd_approx": ""
+  },
+  "funding": "Кредит ЕБРР (senior loan)",
+  "deadline": "",
+  "contact": "Andrey Loponov, Andrey.Loponov@abrisdc.com (контакт компании в PSD ЕБРД 57265)",
+  "it_landscape": "не указано",
+  "quote": "accelerate Abris' digital transformation, particularly through the adoption of digital technologies",
+  "modifiers": [],
+  "cap": "",
+  "verified": "yes",
+  "service_lines": [
+   "RM",
+   "DG"
+  ],
+  "why_now": "Гипотеза: кредит ЕБРР одобрен, до US$1 млн выделено на цифровую трансформацию — дистрибьютору нужна дорожная карта и данные.",
+  "solution": "Гипотеза: [RM] оценка и дорожная карта цифровизации дистрибьютора, [DG] качество мастер-данных и аналитика.",
+  "risks": "Небольшой ИТ-бюджет; возможна собственная реализация; контакт взят из зеркала PSD.",
+  "next_step": "Связаться с контактом компании из PSD ЕБРД с предложением экспресс-оценки.",
+  "reasoning": "Прямая цифровизация на кредит ЕБРД, малый бюджет",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 4,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "UZ-Q08",
+  "country": "UZ",
+  "sector": "Агро и пищевая промышленность",
+  "organization": "Министерство сельского хозяйства Узбекистана / Agriculture Information Service (EPIS, Республика Корея)",
+  "trigger": "T1",
+  "title": "Uzbekistan, South Korea launch digital agriculture platform project",
+  "url": "https://www.trend.az/casia/uzbekistan/4220741.html",
+  "other_urls": [],
+  "source_tier": 2,
+  "pub_date": "2026-09-04",
+  "event_date": "2026-09-04",
+  "stage": "старт первой фазы, сроки и закупки не названы",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "замминистра сельского хозяйства Kahramon Yuldashev (участвовал во встрече); контактные данные не указаны",
+  "it_landscape": "Планируются четыре ядра: система интеграции административных данных, ГИС-платформа, публичный портал, ИИ-модель прогнозирования.",
+  "quote": "can be gradually expanded nationwide, independently managed by national specialists",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "",
+  "service_lines": [
+   "IS",
+   "AI"
+  ],
+  "why_now": "Гипотеза: стартовала первая фаза платформы; национальное тиражирование потребует интеграции данных и поддержки.",
+  "solution": "Гипотеза: [IS] интеграция административных данных и ГИС, [AI] модели прогнозирования — как партнёр на этапе масштабирования.",
+  "risks": "Партнёр выбран (EPIS); сумма и закупки не названы.",
+  "next_step": "Отслеживать этапы проекта и выйти на Минсельхоз по фазе масштабирования.",
+  "reasoning": "ИС-проект с выбранным партнёром, без суммы; устарело",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 6,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 10,
+   "window": 0
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "UPDATE",
+  "lead_id": "2026-W43-KZ-01",
+  "query_id": "KZ-Q10",
+  "country": "KZ",
+  "sector": "Энергетика и зелёная энергетика",
+  "organization": "АО «Алатау Жарык Компаниясы» (Samruk-Energy)",
+  "trigger": "T5",
+  "title": "EBRD contributing to modernisation of Kazakhstan national grid (Alatau Zharyk Grid Reinforcement, 56504)",
+  "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-contributing-to-modernisation-of-kazakhstan-national-grid.html",
+  "other_urls": [
+   "https://www.ebrd.com/home/work-with-us/projects/psd/56504.html",
+   "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/56504/Alatau%20Zharyk%20Grid%20Reinforcement%20Board%20Report.pdf",
+   "https://astanatimes.com/2026/09/ebrd-supports-alatau-zharyks-grid-modernization-program/",
+   "https://www.tenderdetail.com/Global-Tenders/TenderNotice/113262583/8FBEB8C5-B7D1-4C43-870A-133F64EFE731"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-09-07",
+  "event_date": "2026-07-22",
+  "stage": "проект одобрен 22.07.2026; GPN (16.05.2026) анонсировал три тендера; Tender No.1 (Smart Grid и АСКУЭ) объявлен 26.06.2026 со сроком 27.07.2026 — истёк (по Tier 3); Tender No.3 (технадзор и TC-консалтинг) и ТС по стратегии цифровизации пока не объявлены",
+  "amount": {
+   "value": "до 102 млрд (пресс-релиз ЕБРД); до 105 млрд в PSD и Board report",
+   "currency": "KZT",
+   "type": "кредит ЕБРД",
+   "usd_approx": ""
+  },
+  "funding": "Кредит ЕБРР (и грант под управлением ЕБРР, по GPN); Национальный проект модернизации энергетического и коммунального секторов (MEKS)",
+  "deadline": "",
+  "contact": "Mr A. Slambekov, aslambekov@azhk.kz, +7 (727) 376-17-10 (контакт компании в PSD ЕБРД 56504; должность не указана)",
+  "it_landscape": "не указано",
+  "quote": "The project will support further digitalisation of AZhC through the installation of smart meters at substations",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "partial",
+  "service_lines": [
+   "RM",
+   "DG",
+   "IS"
+  ],
+  "why_now": "Гипотеза: GPN объявил три тендера (Smart Grid/учёт, СМР, технадзор и TC-консалтинг) — конкретные процедуры на ecepp ожидаются.",
+  "solution": "Гипотеза: [RM] стратегия цифровизации (TC), [IS] интеграция Smart Grid/АСКУЭ, [DG] данные учёта — напрямую или в консорциуме по Tender No.3.",
+  "risks": "Tender No.1 (Smart Grid/АСКУЭ) уже закрыт 27.07.2026 — ИС-пакет вероятно на оценке; остаются TC-консалтинг и технадзор; процедуры ЕБРД с международной конкуренцией; суммы расходятся (102 vs 105 млрд KZT).",
+  "next_step": "Зарегистрироваться на ecepp.ebrd.com, подписаться на уведомления по проекту 56504 и связаться с контактом AZhC из GPN/PSD.",
+  "reasoning": "ИФИ-проект с TC и контактом в PSD, без открытого дедлайна; устарело",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "UPDATE",
+  "lead_id": "2026-W43-UZ-01",
+  "query_id": "UZ-Q09",
+  "country": "UZ",
+  "sector": "Логистика и транспорт",
+  "organization": "АО «Ўзбекистон темир йўллари» (Uzbekistan Railways, UTY)",
+  "trigger": "T5",
+  "title": "EBRD supports digital transformation of Uzbekistan Railways",
+  "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-digital-transformation-of-uzbekistan-railways.html",
+  "other_urls": [
+   "https://www.ebrd.com/home/work-with-us/projects/psd/55651.html",
+   "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/55651/UTY_Board%20Report.pdf"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-06-17",
+  "event_date": "2026-05-28",
+  "stage": "заём одобрен Советом 28.05.2026; впереди найм PIS-консультанта и ТС, в т.ч. TC3 Digitalisation Strategy; procurement notice не найден",
+  "amount": {
+   "value": "до 40 млн (PSD, Board report; в пресс-релизе — до 38,4 млн)",
+   "currency": "EUR",
+   "type": "суверенный заём ЕБРД; общая стоимость проекта 45 млн EUR (PSD)",
+   "usd_approx": ""
+  },
+  "funding": "ЕБРД, суверенный заём в пользу UTY; пред-подписные ТС: TC1 75 000 EUR, TC2 30 000 EUR",
+  "deadline": "",
+  "contact": "Ulugbek Dosmetov, u.dosmetov@uzrailway.uz, +998 71 238 8222 (контакт компании в PSD ЕБРД 55651); закупки ЕБРД: procurement@ebrd.com",
+  "it_landscape": "Board report: системы управления «largely analogue and reliant on manual processes»; закупаются ПО управления движением, ПО управления перевозками, системы кибербезопасности",
+  "quote": "In its first such public-sector project in Uzbekistan",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "partial",
+  "service_lines": [
+   "IS",
+   "RM",
+   "DG"
+  ],
+  "why_now": "Гипотеза: заём одобрен, впереди найм PIS-консультанта и ТС по стратегии цифровизации — окно до публикации на ecepp.",
+  "solution": "Гипотеза: [RM] стратегия цифровизации (TC3), [IS] PMO и ТЗ на системы управления движением и перевозками, [DG] данные перевозок.",
+  "risks": "Закупки по правилам ЕБРД; дедлайнов нет; суммы расходятся (38,4 vs 40 млн EUR); по сниппету GTAI есть предварительное объявление о консалтинге по цифровизации (ECEPP 44466162) — не проверено.",
+  "next_step": "Связаться с контактом UTY из PSD и отслеживать ecepp.ebrd.com по проекту 55651.",
+  "reasoning": "ИФИ-проект с ТС по цифровой стратегии и контактом, без дедлайна; устарело",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "high"
+ },
+ {
+  "status": "UPDATE",
+  "lead_id": "2026-W43-UZ-02",
+  "query_id": "UZ-Q02",
+  "country": "UZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Правительство Узбекистана — предлагаемая Комиссия по управлению данными",
+  "trigger": "T4",
+  "title": "New data management model to be introduced in the national statistical system",
+  "url": "https://president.uz/en/lists/view/9573",
+  "other_urls": [
+   "https://www.spot.uz/ru/2026/09/02/statistics-reform/",
+   "https://advice.uz/ru/document/4802",
+   "https://www.uzdaily.uz/ru/uzbekistan-vnedrit-novuiu-model-upravleniia-dannymi/"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-09-02",
+  "event_date": "2026-09-02",
+  "stage": "на совещании у Президента предложено создать Комиссию по управлению данными; инвентаризация до 01.12.2026, план до 01.05.2027, Национальная платформа данных до 01.07.2027; по advice.uz (Tier 3, на lex.uz не подтверждено) — Указ УП-190 от 10.09.2026, рабочий орган — Нацкомитет по статистике",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "2026-12-01",
+  "contact": "не указано (рабочий орган Комиссии: Национальный комитет по статистике)",
+  "it_landscape": "Разрозненные ведомственные базы данных; платформа призвана интегрировать данные в единую систему (по Spot.uz); проект-офис открытых данных и рейтинг открытых данных.",
+  "quote": "it was proposed to create a Data Management Commission comprising representatives of ministries and agencies",
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "verified": "partial",
+  "service_lines": [
+   "DG",
+   "RM"
+  ],
+  "why_now": "Гипотеза: указ закрепил Комиссию и сроки — инвентаризация до 01.12.2026, нужен методолог.",
+  "solution": "Гипотеза: [DG] методология инвентаризации и модели управления данными для Нацкомитета по статистике, [RM] дорожная карта к Национальной платформе данных.",
+  "risks": "Указ УП-190 и рабочий орган подтверждены только Tier 3 (advice.uz); финансирование и исполнитель не указаны.",
+  "next_step": "Выйти на Нацкомитет по статистике (рабочий орган Комиссии) с предложением по методологии инвентаризации.",
+  "reasoning": "Прямой DG, регуляторные сроки, но без бюджета и контакта; устарело",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 10,
+   "contact": 0,
+   "window": 5
+  },
+  "confidence": "medium"
+ },
+ {
+  "status": "UPDATE",
+  "lead_id": "2026-W43-AZ-01",
+  "query_id": "AZ-Q04",
+  "country": "AZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Министерство экономики Азербайджана / Центр анализа и координации 4ПР (4SİM)",
+  "trigger": "T4",
+  "title": "Azerbaijan preparing digital transformation roadmaps for 18 local enterprises this year",
+  "url": "https://en.apa.az/entrepreneurship/azerbaijan-preparing-digital-transformation-roadmaps-for-18-local-enterprises-this-year-529957",
+  "other_urls": [
+   "https://www.trend.az/azerbaijan/4234626.html",
+   "https://www.trend.az/business/4201338.html",
+   "https://en.apa.az/ict/azerbaijan-to-launch-digital-economy-support-program-to-accelerate-sme-and-enterprise-transformation-486050"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-10-14",
+  "event_date": "2026-10-14",
+  "stage": "по APA — в 2026 г. дорожные карты для 18 предприятий (Trend 24.06.2026: ритейл, пищепром, строительство, промтовары, металлургия; 400+ инициатив, ~80 приоритетных решений); задача — распространить опыт на более широкий круг предприятий",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "бюджет программы не указан",
+   "usd_approx": ""
+  },
+  "funding": "для 18 предприятий не указано; госфинансирование дорожных карт до 2030 г. упомянуто для расширения программы; Digital Economy Development Support Program (APA, 10.12.2025: гранты и льготные кредиты)",
+  "deadline": "",
+  "contact": "First Deputy Minister of Economy Elnur Aliyev (выступал на III National Competition Forum); 4SİM Executive Director Fariz Jafarov (Trend, 2026-06-24); контактных данных нет",
+  "it_landscape": "не указано",
+  "quote": "the main task is to ensure that this experience is extended to a broader range of enterprises",
+  "modifiers": [],
+  "cap": "",
+  "verified": "partial",
+  "service_lines": [
+   "RM",
+   "IS",
+   "AI"
+  ],
+  "why_now": "Гипотеза: программа распространяется на более широкий круг предприятий — нужны консультанты для диагностики и дорожных карт.",
+  "solution": "Гипотеза: [RM] оценка цифровой зрелости и дорожные карты для предприятий ритейла, пищепрома, строительства и металлургии; затем [IS]/[AI].",
+  "risks": "Механизм привлечения консультантов не раскрыт; список предприятий не назван; расхождение 15 vs 18 предприятий в выдаче.",
+  "next_step": "Связаться с 4SİM (исполнительный директор) по механизму участия консультантов во второй волне.",
+  "reasoning": "Прямой спрос на дорожные карты, госпрограмма, свежий; нет бюджета",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "medium"
+ }
+]

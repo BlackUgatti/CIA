@@ -1,0 +1,126 @@
+[
+ {
+  "index": 0,
+  "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-contributing-to-modernisation-of-kazakhstan-national-grid.html",
+  "other_urls": [
+   "https://www.tenderdetail.com/Global-Tenders/TenderNotice/113262583/8FBEB8C5-B7D1-4C43-870A-133F64EFE731",
+   "https://www.tenderdetail.com/Global-Tenders/TenderNotice/113262584/BF2BBACE-E521-4BF1-A298-E81ED21BE7C6",
+   "https://ewsdata.rightsindevelopment.org/projects/EBRD-56504/",
+   "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/56504/Alatau%20Zharyk%20Grid%20Reinforcement%20Board%20Report.pdf",
+   "https://astanatimes.com/2026/09/ebrd-supports-alatau-zharyks-grid-modernization-program/"
+  ],
+  "organization": "АО «Алатау Жарык Компаниясы» (Samruk-Energy)",
+  "pub_date": "2026-09-07",
+  "event_date": "2026-07-22",
+  "stage": "проект ИФИ одобрен; General Procurement Notice опубликован, конкретные тендеры (№1 Smart Grid, №3 технадзор и TC-консалтинг) ещё не найдены",
+  "amount": {
+   "value": "до 102 млрд",
+   "currency": "KZT",
+   "type": "кредит ЕБРР (пресс-релиз); в GPN оценочная стоимость всего проекта 102 356 169 000 KZT; в Board report кредит до 105 млрд KZT",
+   "usd_approx": ""
+  },
+  "funding": "Кредит ЕБРР (и грант под управлением ЕБРР, по GPN); Национальный проект модернизации энергетического и коммунального секторов (MEKS)",
+  "deadline": "",
+  "contact": "Mr A. Slambekov, АО «Alatau Zharyk Company», 24b Manas Street, Almaty 050008, тел. +7 (727) 376-17-10; e-mail aslambekov@azhk.kz (по зеркалу EWS rightsindevelopment, не по странице EBRD)",
+  "it_landscape": "не указано",
+  "quote": "The project will support further digitalisation of AZhC through the installation of smart meters at substations",
+  "check_also": "Это обновление известного лида 2026-W43-KZ-01. Подтверди по пресс-релизу ЕБРД от 2026-09-07 сумму до 102 млрд KZT, умные счётчики, пилот smart grid и кибербезопасность. Открой PSD https://www.ebrd.com/home/work-with-us/projects/psd/56504.html (если доступна): контакт компании (имя, должность, e-mail), дата раскрытия или обновления. Проверь GPN 2026-05-16 (тендеры №1–3). Поищи конкретное Invitation for Tenders / REOI по Tender No.1 (Smart Grid) или No.3 (TC-консалтинг) с будущим дедлайном."
+ },
+ {
+  "index": 1,
+  "url": "https://www.ebrd.com/home/work-with-us/projects/psd/55651.html",
+  "other_urls": [
+   "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-digital-transformation-of-uzbekistan-railways.html",
+   "https://www.ebrd.com/content/dam/ebrd_dxp/documents/project/55651/UTY_Board%20Report.pdf",
+   "https://www.gtai.de/de/trade/usbekistan/entwicklungsprojekte/digitalisierung-des-zugverkehrsmanagements-1931004"
+  ],
+  "organization": "АО «Ўзбекистон темир йўллари» (Uzbekistan Railways, UTY)",
+  "pub_date": "2026-06-17",
+  "event_date": "2026-05-28",
+  "stage": "заём одобрен Советом ЕБРД 2026-05-28; впереди закупки PIS-консультанта и пост-подписные ТС (Digitalisation Strategy, ACAP); procurement notice не найден",
+  "amount": {
+   "value": "40 млн",
+   "currency": "EUR",
+   "type": "суверенный заём ЕБРД (общая стоимость проекта 45 млн EUR по PSD; пресс-релиз: до 38,4 млн EUR)",
+   "usd_approx": ""
+  },
+  "funding": "ЕБРД, суверенный заём Республике Узбекистан в пользу UTY; пред-подписные ТС из Shareholder Special Fund и Israel-EBRD Cooperation Account (TC1 75 000 EUR, TC2 30 000 EUR); пост-подписные ТС будут предложены донорам",
+  "deadline": "не указано",
+  "contact": "PSD, клиент: Ulugbek Dosmetov, u.dosmetov@uzrailway.uz, +998 71 238 8222; закупки ЕБРД: procurement@ebrd.com, +44 20 7338 6794",
+  "it_landscape": "Закупаются: система управления движением, система управления перевозками (traffic/transport management software), отдельные системы кибербезопасности. Существующий ИТ-ландшафт UTY не описан (в Board report большая часть закрыта).",
+  "quote": "traffic management software system; transport management software system; selected cybersecurity software systems. Technical Support during Project implementation, including the PIS consultancy services.",
+  "check_also": "Это обновление известного лида 2026-W43-UZ-01. Проверь PSD 55651: контакт Ulugbek Dosmetov (e-mail, телефон), статус проекта (Disbursing?), сумму 40 млн EUR и общую стоимость 45 млн EUR, дату раскрытия или обновления PSD, TC3 Digitalisation Strategy. Поищи procurement notice (PIS-консультант, ТС по стратегии цифровизации) с будущим дедлайном."
+ },
+ {
+  "index": 2,
+  "url": "https://www.spot.uz/ru/2026/09/02/statistics-reform/",
+  "other_urls": [
+   "https://advice.uz/ru/document/4802",
+   "https://www.uzdaily.uz/ru/uzbekistan-vnedrit-novuiu-model-upravleniia-dannymi/",
+   "https://president.uz/en/lists/view/9573"
+  ],
+  "organization": "Правительство Узбекистана / Национальный комитет по статистике (рабочий орган Комиссии по управлению данными)",
+  "pub_date": "2026-09-02",
+  "event_date": "2026-09-10",
+  "stage": "указ принят (по advice.uz); Положение о Комиссии в течение 3 мес.; инвентаризация и план реформы впереди",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "2026-12-01",
+  "contact": "не указано (рабочий орган Комиссии: Национальный комитет по статистике)",
+  "it_landscape": "Разрозненные ведомственные базы данных; платформа призвана интегрировать данные в единую систему (по Spot.uz); проект-офис открытых данных и рейтинг открытых данных.",
+  "quote": "до 1 декабря 2026 года она должна провести инвентаризацию систем управления данными",
+  "check_also": "Это обновление известного лида 2026-W43-UZ-02. Найди текст Указа УП-190 от 2026-09-10 на lex.uz (или president.uz). Подтверди номер, дату, создание Комиссии по управлению данными, рабочий орган (Нацкомитет по статистике) и сроки: Положение в течение 3 месяцев, инвентаризация до 2026-12-01, план до 2027-05-01, платформа до 2027-07-01."
+ },
+ {
+  "index": 3,
+  "url": "https://en.apa.az/entrepreneurship/azerbaijan-preparing-digital-transformation-roadmaps-for-18-local-enterprises-this-year-529957",
+  "other_urls": [
+   "https://www.trend.az/business/4201338.html",
+   "https://en.apa.az/ict/azerbaijan-to-launch-digital-economy-support-program-to-accelerate-sme-and-enterprise-transformation-486050"
+  ],
+  "organization": "Министерство экономики Азербайджана / Центр анализа и координации 4ПР (4SİM)",
+  "pub_date": "2026-10-14",
+  "event_date": "2026-10-14",
+  "stage": "реализация госпрограммы (дорожные карты 2026)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "бюджет программы не указан",
+   "usd_approx": ""
+  },
+  "funding": "государство (в 2030 планируются дорожные карты цифровой и зелёной трансформации за счёт государства); программа Digital Economy Development Support Program, Стратегия развития цифровой экономики 2026-2029",
+  "deadline": "",
+  "contact": "First Deputy Minister of Economy Elnur Aliyev (выступал на III National Competition Forum); 4SİM Executive Director Fariz Jafarov (Trend, 2026-06-24); контактных данных нет",
+  "it_landscape": "не указано",
+  "quote": "the main task is to ensure that this experience is extended to a broader range of enterprises",
+  "check_also": "Это обновление известного лида 2026-W43-AZ-01. Подтверди новые факты: Trend 4201338 (2026-06-24) — сектора участников, более 400 инициатив, около 80 приоритетных решений, Fariz Jafarov; APA 486050 — программа поддержки, гранты и кредиты, не менее 10 и 12 предприятий. Поищи Tier 1 (economy.gov.az, 4sim.gov.az) и механизм привлечения консультантов."
+ },
+ {
+  "index": 4,
+  "url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-expansion-of-abris-distribution-kazakhstan.html",
+  "other_urls": [
+   "https://ewsdata.rightsindevelopment.org/projects/EBRD-57265/"
+  ],
+  "organization": "Abris Distribution - Kazakhstan LLP",
+  "pub_date": "2026-09-21",
+  "event_date": "2026-07-21",
+  "stage": "кредит одобрен (дата голосования совета ЕБРР 2026-07-21)",
+  "amount": {
+   "value": "до 11 млн",
+   "currency": "USD",
+   "type": "кредит ЕБРР; из них до 1 млн USD - digital capex, до 10 млн - оборотный капитал",
+   "usd_approx": ""
+  },
+  "funding": "Кредит ЕБРР (senior loan)",
+  "deadline": "",
+  "contact": "Andrey Loponov, Andrey.Loponov@abrisdc.com (по зеркалу EWS rightsindevelopment, как контакт клиента; на странице EBRD контактов нет)",
+  "it_landscape": "не указано",
+  "quote": "accelerate Abris' digital transformation, particularly through the adoption of digital technologies",
+  "check_also": "Подтверди по пресс-релизу ЕБРД от 2026-09-21 кредит до 11 млн USD и цифровую часть (до 1 млн USD digital capex — проверь на ebrd.com PSD 57265, а не только по EWS). Проверь контакт компании в PSD, дату голосования совета 2026-07-21 и цитату."
+ }
+]

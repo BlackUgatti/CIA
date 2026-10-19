@@ -1,0 +1,98 @@
+[
+ {
+  "index": 0,
+  "url": "https://www.adb.org/node/1184016",
+  "other_urls": [
+   "https://www.adb.org/node/1181981",
+   "https://www.adb.org/node/1172326"
+  ],
+  "organization": "Azerbaijan Railways CJSC (ADY)",
+  "pub_date": "2026-10-13",
+  "event_date": "",
+  "stage": "открытый тендер",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "сумма контракта в уведомлении не указана",
+   "usd_approx": ""
+  },
+  "funding": "ADB, Loan 4497-AZE (Azerbaijan Railways Digital Transformation Project)",
+  "deadline": "2026-10-22",
+  "contact": "PIU Procurement Team ADY, 230 Dilara Aliyeva str., Floor 1, room 163, Baku AZ1010; e-mail u.binnatova@ady.az и nu.salahov@ady.az; тел. +994 12 499 43 56, +994 12 499 33 84; заявки: c/o Mr. Arif Agayev, Deputy Chairman ADY",
+  "it_landscape": "SAP SuccessFactors (Employee Central, Performance & Goals, Career Development Planning + Succession Management, LMS) для замены существующих HR-процессов; ADY параллельно готовит программу SAP ERP",
+  "quote": "Deadline for Submission of Bids: 22 October 2026, 15:00 hours (Baku local time)",
+  "check_also": "Подтверди по последней версии уведомления (node/1184016) дедлайн 2026-10-22 15:00 (Баку) и то, что после 2026-10-13 не было нового продления или отмены (поищи amendment / corrigendum IT-09). Проверь дату публикации, имена и должности в контактах (Mr. Arif Agayev, Deputy Chairman; e-mail PIU), объём услуг внедрения и то, что сумма контракта не указана."
+ },
+ {
+  "index": 1,
+  "url": "https://www.adb.org/news/adb-approves-302-million-loan-modernize-baku-metro-signaling-and-digital-operations",
+  "other_urls": [
+   "https://www.adb.org/projects/59447-001/main",
+   "https://www.trend.az/azerbaijan/4233962.html"
+  ],
+  "organization": "Baku Metropolitan CJSC (Baku Metro)",
+  "pub_date": "2026-10-13",
+  "event_date": "2026-10-12",
+  "stage": "кредит одобрен, закупки впереди (на странице ADB Procurement Plan от сентября 2026; консалтинговых уведомлений нет)",
+  "amount": {
+   "value": "302,38 млн",
+   "currency": "USD",
+   "type": "кредит ADB (весь проект 515,07 млн USD: AIIB 79,98 млн, правительство 132,71 млн)",
+   "usd_approx": ""
+  },
+  "funding": "ADB Loan 04822 (US$ 302,38 млн), AIIB Loan 08545 (US$ 79,98 млн), правительство Азербайджана",
+  "deadline": "",
+  "contact": "ADB: Sunniya Durrani-Jamal, Country Director for Azerbaijan; ADB officer проекта Ji Woon Kang (SD1-TRA); исполнитель: Baku Metropolitan CJSC",
+  "it_landscape": "Цифровые системы корпоративных функций, управление активами, кибербезопасность, пассажиропоток и информирование, модернизированные дата-центры и сеть, использование операционных и корпоративных данных для обслуживания; замена сигнализации на CBTC",
+  "quote": "This project marks an important milestone in transforming Baku Metro into a future-ready urban transport system",
+  "check_also": "Подтверди сумму займа ADB 302,38 млн USD, дату одобрения, общую стоимость 515,07 млн и софинансирование AIIB 79,98 млн. Дословно проверь формулировки цифрового компонента (корпоративные системы, управление активами, кибербезопасность, дата-центры, использование данных) и имена контактов на странице проекта 59447-001. Проверь даты в Procurement Plan, если он доступен. Отдельно поищи уведомление ADB о найме консультанта по ИИ / цифровой трансформации для Baku Metro (заголовок Trend «ADB launches AI consultant tender for Baku Metro's digital transformation»). Если найдёшь — дату, дедлайн, контакт и сумму."
+ },
+ {
+  "index": 2,
+  "url": "https://www.adb.org/projects/58309-001/main",
+  "other_urls": [
+   "https://www.adb.org/news/adb-uzbekistan-sign-200-million-power-modernization-loan",
+   "https://kun.uz/en/news/2026/10/16/adb-signs-200-million-loan-agreement-to-modernize-uzbekistans-power-distribution-network",
+   "https://daryo.uz/en/2026/10/16/adb-signs-200mn-loan-agreement-with-uzbekistan-to-modernize-electricity-networks/"
+  ],
+  "organization": "АО «National Electric Grid of Uzbekistan» (NEGU)",
+  "pub_date": "2026-10-15",
+  "event_date": "2026-10-15",
+  "stage": "заёмное соглашение подписано 2026-10-15; страница проекта: статус Proposed, закупок и плана закупок пока нет; Всемирный банк планирует вынести +$100 млн на Совет до конца октября 2026",
+  "amount": {
+   "value": "200 млн",
+   "currency": "USD",
+   "type": "заём АБР (программа в целом 371 млн USD, результато-ориентированное кредитование, софинансирование ВБ)",
+   "usd_approx": ""
+  },
+  "funding": "ADB (ведущий кредитор), Всемирный банк (Full Mutual Reliance Framework); TA 650 000 USD из TASF",
+  "deadline": "не указано",
+  "contact": "Alfredo Bano, project officer, ADB SD1-ENE (форма запроса на странице); Narghiza K. Alikulova, Communications Officer, Uzbekistan Resident Mission, +998781201230",
+  "it_landscape": "Автоматизированное управление процессами, автоматизированный учёт электроэнергии и цифровой учёт на подстанциях 35-110 кВ, цифровизация энергосистемы и кибербезопасность.",
+  "quote": "modernizing and digitalizing priority 35-110 kV distribution substations, and strengthening the governance and institutional capacity of the executing agency",
+  "check_also": "Подтверди подписание займа 200 млн USD 2026-10-15 (новость ADB), формулировки цифровых выходов (digitalize substations, automated process control, automated power accounting, digital metering, power system digitalization, cybersecurity), назначение ТП 650 000 USD и имя Alfredo Bano. Проверь, есть ли в текстах будущая дата (например, вынесение софинансирования ВБ на Совет)."
+ },
+ {
+  "index": 3,
+  "url": "https://www.adb.org/node/1173231",
+  "other_urls": [
+   "https://www.trend.az/business/4218775.html"
+  ],
+  "organization": "Azerbaijan Railways CJSC (ADY)",
+  "pub_date": "2026-08-26",
+  "event_date": "2026-09-04",
+  "stage": "предтендер (EME проведён 2026-09-04, запуск закупки ожидается в Q4 2026)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "в уведомлении сумма не указана",
+   "usd_approx": ""
+  },
+  "funding": "планируется финансирование ADB (по тексту уведомления: Program is planned to be financed by ADB)",
+  "deadline": "",
+  "contact": "ADY Project Implementation Unit, Dilara Aliyeva Street 1A, Baku AZ1010; e-mail u.binnatova@ady.az и nu.salahov@ady.az",
+  "it_landscape": "Крупная программа SAP ERP на уровне всего предприятия ADY; параллельно идёт закупка SAP SuccessFactors (IT-09)",
+  "quote": "ADY is now preparing to launch the procurement process for selection of an SAP ERP Implementation Partner",
+  "check_also": "Подтверди стадию (EME 2026-09-04, запуск закупки SAP ERP Implementation Partner ожидается в Q4 2026), формулировку о финансировании ADB, контакты и отсутствие суммы. Поищи, не опубликовано ли уже уведомление о закупке (Specific Procurement Notice / Invitation for Bids / REOI) на SAP ERP для ADY с дедлайном. Если да — дату, дедлайн, контакт и сумму."
+ }
+]
