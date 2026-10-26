@@ -1,0 +1,56 @@
+[
+  {
+    "index": 0,
+    "url": "https://www.adb.org/projects/59447-001/main",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Executing Agencies: Baku Metropolitan Closed Joint Stock Company"},
+      "pub_date": {"verdict": "confirmed", "evidence": "ADB news release and Trend.az dated 13 October 2026 (страница проекта даты публикации не имеет)"},
+      "event_date": {"verdict": "confirmed", "evidence": "Timetable: Approval 12 Oct 2026"},
+      "stage": {"verdict": "confirmed", "evidence": "Procurement Plan, Procurement Plans, Sep 2026; одобрение 12 Oct 2026"},
+      "amount": {"verdict": "confirmed", "evidence": "ADB loan 04822 OCR US$ 302.38 million; AIIB loan 08545 US$ 79.98 million (news: 'AIIB will provide $79.98 million in cofinancing'). Дополнительно в источнике: правительство Азербайджана $132.71 млн, общая стоимость $515.07 млн."},
+      "funding": {"verdict": "confirmed"},
+      "deadline": {"verdict": "confirmed", "correct": "не указано (пусто)", "evidence": "Открытых закупок нет. Единственное уведомление на странице: 'Invitation to Early Market Engagement' (Advance Notice, Closed), опубликовано 10 Apr 2026, срок 30 Apr 2026 - уже закрыто. Консалтингового уведомления по проекту 59447-001 нет."},
+      "contact": {"verdict": "confirmed", "evidence": "Responsible ADB Officer: Kang, Ji Woon; Sectors Department 1; Transport Sector Cluster (SD1-TRA). Email jikang@adb.org на странице отображается только в ссылке request-information, не как видимый текст."},
+      "it_landscape": {"verdict": "confirmed", "evidence": "'не указано' - корректно для страницы проекта. В новости ADB перечислены интегрированные цифровые системы (корпоративные функции, управление активами, кибербезопасность), дата-центры, но действующий ИТ-ландшафт не описан."},
+      "quote": {"verdict": "contradicted", "correct": "Не дословная. На странице метки и значения на отдельных строках: 'Approval' / '12 Oct 2026'; 'Procurement Plans' / 'Sep 2026'. Строка 'Approval: 12 Oct 2026; Procurement Plan dated Sep 2026' - сборная перефразировка. Дословная цитата из новости ADB: 'has approved a $302.38 million loan to modernize Baku Metro's signaling system and digitalize its operations'.", "evidence": "Timetable: 'Approval 12 Oct 2026'"}
+    },
+    "notes": "Ключевые поля подтверждены. Quote заменить на дословную. Консалтинговый тендер ADB по ИИ/цифровизации Baku Metro: заголовок 'ADB launches AI consultant tender for Baku Metro' виден только в результатах поиска (тег-страница trend.az), сам материал не найден и не открывается (тег-страница trend.az/tags/32909 при проверке заголовка не показала). Статья Trend.az 4233962 из other_urls - это 'ADB lends $302M to upgrade and digitize Baku Metro', о консалтинговом тендере и дедлайне там ничего нет. Консалтинговое уведомление, дедлайн и сумма не подтверждены: не использовать как открытый тендер. Поиск показал ToR 59147-003 (AI-план для Baku Metro?) - это другой номер проекта (не 59447-001), PDF не читается, связь не подтверждена. Тендер декарбонизации Baku Metro (report.az, бюджет $400 000) истёк 25.10.2025. other_url metro.gov.az (предварительная рыночная консультация) вернул 404 - не проверен. Поле pub_date взято из новости, а не со страницы проекта. Источник: ИФИ (ADB) - первичный официальный; email контакта извлечён из ссылки."
+  },
+  {
+    "index": 1,
+    "url": "https://www.trend.az/business/4226895.html",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Ministry of Ecology and Natural Resources, Ministry of Economy, AzerGold CJSC, Ministry of Digital Development and Transport - исполнители мероприятия по оцифровке геоданных"},
+      "pub_date": {"verdict": "confirmed", "evidence": "2026-09-23, 11:09"},
+      "event_date": {"verdict": "confirmed", "evidence": "пусто; в тексте нет отдельной даты события"},
+      "stage": {"verdict": "confirmed", "evidence": "Госпрограмма развития горнодобывающей (металлические руды) и металлургической промышленности на 2027-2030, утверждена президентом Ильхамом Алиевым; 'This measure is scheduled for implementation between 2027 and 2028.'"},
+      "amount": {"verdict": "confirmed", "evidence": "не указано - в статье бюджета нет"},
+      "funding": {"verdict": "confirmed", "evidence": "не указано"},
+      "deadline": {"verdict": "confirmed", "evidence": "нет тендера; дедлайн не применим"},
+      "contact": {"verdict": "confirmed", "evidence": "не указано - контактов нет"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "не указано"},
+      "quote": {"verdict": "confirmed", "evidence": "'a unified electronic geological information resource containing the digitized geological data will be created'"}
+    },
+    "notes": "Первоисточник (указ) не найден: все сведения о программе получены из новостных пересказов (Trend.az, gmk.center со ссылкой на 1news.az). president.az/e-qanun.az не открывались; результат поиска president.az/ru/articles/view/52522 не проверен. Заявленный source_tier уровня официального документа не подтверждён - это СМИ. Пересказ программы в целом согласуется: Trend называет заголовок 'Azerbaijan to digitalize geological data for mining industry'. Ответственные - исполнители именно мероприятия по оцифровке геоданных. Это госпрограмма отрасли, не ИТ-закупка: конкретного заказчика ИТ-работ и бюджета в тексте нет."
+  },
+  {
+    "index": 2,
+    "url": "https://kapital.kz/tehnology/152777/digital-agro-platform-planiruyut-zapustit-k-koncu-2028-goda.html",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Министерство сельского хозяйства представило системы на заседании правительства под председательством Серика Жумангарина"},
+      "pub_date": {"verdict": "confirmed", "evidence": "10.09.2026, 19:50 (Kapital.kz со ссылкой на primeminister.kz)"},
+      "event_date": {"verdict": "confirmed", "evidence": "2028-12-31 - целевой срок 'до конца 2028 года'; это плановая дата завершения платформы, а не дата события"},
+      "stage": {"verdict": "not_found", "correct": "'представлено на заседании правительства, планы' ; слова 'госпрограмма' и ее утверждение в тексте не найдены", "evidence": "'До конца 2028 года отраслевые информационные системы предполагается объединить в единую цифровую платформу АПК.'"},
+      "amount": {"verdict": "confirmed", "evidence": "не указано - денежных сумм в статье нет (только счётчики: 39 млн голов, 1 221 субъект, 50 000 карточек)"},
+      "funding": {"verdict": "confirmed", "evidence": "не указано"},
+      "deadline": {"verdict": "confirmed", "evidence": "'Завершить формирование единой цифровой платформы АПК планируется до конца 2028 года.' Это срок реализации платформы, не срок подачи заявок; тендера нет."},
+      "contact": {"verdict": "confirmed", "evidence": "не указано - контактов в статье нет"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "Система идентификации животных (39+ млн голов), E-Fish (1 221 субъект), JerInSpectr ('платформа модернизируется совместно с АО «Қазақстан Ғарыш Сапары»'), QazTech ('разрабатываются первые цифровые сервисы на платформе QazTech'), Halyk ('министерство сельского хозяйства совместно с Halyk ведет работу по оптимизации и цифровизации отраслевых процессов'). Дополнительно в тексте: gosagro.kz (ГЦСС), Smart Data Agro."},
+      "quote": {"verdict": "confirmed", "evidence": "'Завершить формирование единой цифровой платформы АПК планируется до конца 2028 года.' (дословно, абзац про Digital Agro Platform; при повторной проверке тоже найдено)"}
+    },
+    "notes": "Противоречий нет. Формулировка стадии 'реализация госпрограммы' не подтверждена: в тексте нет ни названия, ни утверждения госпрограммы - это презентация Минсельхоза на заседании правительства (источник - primeminister.kz). Официальный источник gov.kz Минсельхоза не найден. other_url inbusiness.kz (29.05.26) срок 2028 не упоминает; dairynews.today не открывался. Уточнение: связь 'JerInSpectr модернизирует АО Қазақстан Ғарыш Сапары' передана неточно - в тексте платформа модернизируется совместно с этой компанией (запуск JerInSpectr в 2023)."
+  }
+]

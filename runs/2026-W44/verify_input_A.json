@@ -1,0 +1,72 @@
+[
+ {
+  "index": 0,
+  "url": "https://www.adb.org/projects/59447-001/main",
+  "other_urls": [
+   "https://www.adb.org/news/adb-approves-302-million-loan-modernize-baku-metro-signaling-and-digital-operations",
+   "https://www.trend.az/business/4233962.html",
+   "https://www.metro.gov.az/en/procurement/4705/baki-metropoliteninin-siqnalizasiya-sisteminin-modernlesdirilmesi-ve-emeliyyatlarin-reqemsallasdirilmasi-layihesi-cercivesinde-ilkin-bazar-meslehetlesmesi-uzre-devet"
+  ],
+  "organization": "Baku Metropolitan CJSC (Baku Metro)",
+  "pub_date": "2026-10-13",
+  "event_date": "2026-10-12",
+  "stage": "одобрен ИФИ, закупки в подготовке (Procurement Plan Sep 2026)",
+  "amount": {
+   "value": "302,38 млн (ADB, Loan 04822) + 79,98 млн (AIIB, Loan 08545)",
+   "currency": "USD",
+   "type": "кредиты на весь проект",
+   "usd_approx": ""
+  },
+  "funding": "ADB OCR loan 04822 (USD 302,38 млн), AIIB loan 08545 (USD 79,98 млн)",
+  "deadline": "",
+  "contact": "ADB: Kang, Ji Woon, Project Officer, SD1-TRA, jikang@adb.org; исполнитель: Baku Metropolitan CJSC",
+  "it_landscape": "не указано",
+  "quote": "Approval: 12 Oct 2026; Procurement Plan dated Sep 2026",
+  "check_also": "Подтверди одобрение 12.10.2026, суммы ADB 302,38 млн и AIIB 79,98 млн USD, Procurement Plan Sep 2026, контакт project officer. Отдельно поищи, есть ли реальное консалтинговое уведомление ADB по AI/цифровизации Baku Metro (заголовок Trend.az «ADB launches AI consultant tender for Baku Metro») и его дедлайн."
+ },
+ {
+  "index": 1,
+  "url": "https://www.trend.az/business/4226895.html",
+  "other_urls": [],
+  "organization": "Минэкологии, Минэкономики, AzerGold CJSC, Минцифры и транспорта Азербайджана",
+  "pub_date": "2026-09-23",
+  "event_date": "",
+  "stage": "госпрограмма утверждена, мероприятие на 2027-2028",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "не указано",
+  "it_landscape": "не указано",
+  "quote": "unified electronic geological information resource",
+  "check_also": "Подтверди госпрограмму 2027-2030, сроки оцифровки геоданных 2027-2028, ответственных (AzerGold и др.), дату публикации. Найди первоисточник (указ президента, president.az / e-qanun.az), если возможно."
+ },
+ {
+  "index": 2,
+  "url": "https://kapital.kz/tehnology/152777/digital-agro-platform-planiruyut-zapustit-k-koncu-2028-goda.html",
+  "other_urls": [
+   "https://dairynews.today/kz/news/glava-minselkhoza-kazakhstana-potreboval-obespechit-polnuyu-tsifrovuyu-proslezhivaemost-v-zhivotnovo.html",
+   "https://inbusiness.kz/ru/last/ot-proslezhivaemosti-do-torgovli-ii-prihodit-v-selskoe-hozyajstvo"
+  ],
+  "organization": "Министерство сельского хозяйства РК",
+  "pub_date": "2026-09-10",
+  "event_date": "2028-12-31",
+  "stage": "планирование / реализация госпрограммы",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "2028-12-31",
+  "contact": "не указано",
+  "it_landscape": "Система идентификации животных (39 млн голов), E-Fish (1 221 субъект), JerInSpectr (модернизирует АО «Қазақстан Ғарыш Сапары»), платформа QazTech; совместно с Halyk оптимизируются процессы животноводства.",
+  "quote": "Завершить формирование единой цифровой платформы АПК планируется до конца 2028 года.",
+  "check_also": "Подтверди срок до конца 2028, состав систем и названных партнёров, дату публикации. Поищи официальный источник (gov.kz Минсельхоз)."
+ }
+]

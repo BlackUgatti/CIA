@@ -1,0 +1,509 @@
+[
+ {
+  "status": "UPDATE",
+  "lead_id": "2026-W43-2-AZ-02",
+  "country": "AZ",
+  "query_id": "AZ-X03",
+  "title": "Baku Metro Signaling Modernization and Operations Digitalization Project (59447-001) - ADB project page",
+  "url": "https://www.adb.org/projects/59447-001/main",
+  "other_urls": [
+   "https://www.adb.org/news/adb-approves-302-million-loan-modernize-baku-metro-signaling-and-digital-operations",
+   "https://www.trend.az/business/4233962.html"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-10-13",
+  "event_date": "2026-10-12",
+  "organization": "Baku Metropolitan CJSC (Baku Metro)",
+  "sector": "Логистика и транспорт",
+  "trigger": "T5",
+  "stage": "одобрен ИФИ, закупки в подготовке (Procurement Plan Sep 2026)",
+  "amount": {
+   "value": "302,38 млн (ADB, Loan 04822) + 79,98 млн (AIIB, Loan 08545)",
+   "currency": "USD",
+   "type": "кредиты на весь проект",
+   "usd_approx": ""
+  },
+  "funding": "ADB OCR loan 04822 (USD 302,38 млн), AIIB loan 08545 (USD 79,98 млн)",
+  "deadline": "",
+  "contact": "ADB: Kang, Ji Woon, Project Officer (SD1-TRA), канал request-information на странице проекта; исполнитель — Baku Metropolitan CJSC",
+  "it_landscape": "не указано",
+  "quote": "has approved a $302.38 million loan to modernize Baku Metro's signaling system and digitalize its operations",
+  "service_lines": [
+   "IS",
+   "DG",
+   "RM"
+  ],
+  "why_now": "Гипотеза: проект одобрен 12.10.2026, к ADB добавился AIIB (79,98 млн USD), опубликован Procurement Plan — консалтинговые и ИТ-закупки впереди.",
+  "solution": "Гипотеза: [RM] оценка as-is и дорожная карта цифровизации операций метро, затем [DG] архитектура данных эксплуатации и [IS] поддержка PMU в приёмке систем.",
+  "risks": "Консалтинговых уведомлений пока нет; заголовок Trend.az об ИИ-тендере не подтверждён; закупки ADB могут уйти крупным интеграторам сигнализации.",
+  "next_step": "Запросить у ADB (Ji Woon Kang) Procurement Plan проекта 59447-001 и отслеживать консалтинговые пакеты.",
+  "reasoning": "Одобренный кредит ADB+AIIB на цифровизацию, закупки впереди, контакт есть.",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "confidence": "high",
+  "verified": "yes",
+  "modifiers": [],
+  "cap": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "AZ",
+  "query_id": "AZ-Q09",
+  "title": "Azerbaijan to digitalize geological data for mining industry (state program for metal ores and metallurgy 2027-2030)",
+  "url": "https://www.trend.az/business/4226895.html",
+  "other_urls": [],
+  "source_tier": 2,
+  "pub_date": "2026-09-23",
+  "event_date": "",
+  "organization": "Минэкологии, Минэкономики, AzerGold CJSC, Минцифры и транспорта Азербайджана",
+  "sector": "Горнодобыча и металлургия",
+  "trigger": "T4",
+  "stage": "госпрограмма утверждена, мероприятие на 2027-2028",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "не указано",
+  "it_landscape": "не указано",
+  "quote": "unified electronic geological information resource",
+  "service_lines": [
+   "DG",
+   "IS",
+   "RM"
+  ],
+  "why_now": "Гипотеза: госпрограмма 2027–2030 утверждена, оцифровка геоданных стартует в 2027 — сейчас окно для ТЗ и приоритизации.",
+  "solution": "Гипотеза: [RM] инвентаризация и оценка геоданных Госфонда, приоритизация и ТЗ на единый ресурс; затем [DG] модель и качество данных, [IS] выбор платформы.",
+  "risks": "Бюджет и исполнитель не названы; источник — СМИ, текст указа не найден; заказчик может выбрать госИТ-структуру без конкурса.",
+  "next_step": "Найти текст указа о госпрограмме и выйти на Минэкологии/AzerGold через существующий контакт AzerGold (лид 2026-W43-2-AZ-04).",
+  "reasoning": "Прямая data-задача в госпрограмме со сроками, без бюджета и контакта.",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 10,
+   "contact": 0,
+   "window": 5
+  },
+  "modifiers": [
+   "stale"
+  ],
+  "confidence": "medium",
+  "verified": "yes",
+  "cap": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "KZ",
+  "query_id": "KZ-Q09",
+  "title": "Digital agro platform планируют запустить к концу 2028 года (Минсельхоз РК, Е-АПК)",
+  "url": "https://kapital.kz/tehnology/152777/digital-agro-platform-planiruyut-zapustit-k-koncu-2028-goda.html",
+  "other_urls": [
+   "https://dairynews.today/kz/news/glava-minselkhoza-kazakhstana-potreboval-obespechit-polnuyu-tsifrovuyu-proslezhivaemost-v-zhivotnovo.html",
+   "https://inbusiness.kz/ru/last/ot-proslezhivaemosti-do-torgovli-ii-prihodit-v-selskoe-hozyajstvo"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-09-10",
+  "event_date": "2028-12-31",
+  "organization": "Министерство сельского хозяйства РК",
+  "sector": "Агро и пищевая промышленность",
+  "trigger": "T4",
+  "stage": "планирование (презентация Минсельхоза на заседании правительства)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "2028-12-31",
+  "contact": "не указано",
+  "it_landscape": "ИС идентификации животных (39 млн голов), E-Fish (1 221 субъект), JerInSpectr (модернизируется совместно с АО «Қазақстан Ғарыш Сапары»), платформа QazTech; процессы животноводства оптимизируются совместно с Halyk.",
+  "quote": "Завершить формирование единой цифровой платформы АПК планируется до конца 2028 года.",
+  "service_lines": [
+   "IS",
+   "DG",
+   "RM"
+  ],
+  "why_now": "Гипотеза: слияние отраслевых ИС в единую Digital Agro Platform до конца 2028 требует архитектуры и дорожной карты уже сейчас.",
+  "solution": "Гипотеза: [RM] оценка ландшафта ИС АПК и дорожная карта интеграции, [DG] мастер-данные и прослеживаемость, затем [IS] PMO внедрения.",
+  "risks": "Части работ уже у госИТ-партнёров (Қазақстан Ғарыш Сапары, QazTech); бюджет не указан; официальный источник не найден.",
+  "next_step": "Отследить закупки Минсельхоза РК по Е-АПК/Digital Agro Platform и выйти на департамент цифровизации министерства.",
+  "reasoning": "Прямой ИС-проект с датой, но без бюджета, мандат не назван, партнёры есть.",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 10,
+   "contact": 0,
+   "window": 0
+  },
+  "modifiers": [
+   "stale"
+  ],
+  "confidence": "medium",
+  "verified": "partial",
+  "cap": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "AZ",
+  "query_id": "AZ-Q06",
+  "title": "ADB considers $500,000 grant for Azerbaijan power projects (Power Distribution Modernization Project, TA)",
+  "url": "https://www.trend.az/business/green-economy/4220700.html",
+  "other_urls": [
+   "https://report.az/en/finance/adb-to-help-azerbaijan-prepare-projects-for-development-of-smart-energy-digital-infrastructure"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-09-04",
+  "event_date": "",
+  "organization": "OJSC Azerishiq (электрораспределение)",
+  "sector": "Энергетика и зелёная энергетика",
+  "trigger": "T5",
+  "stage": "подготовка проекта ИФИ (TA-грант рассматривается)",
+  "amount": {
+   "value": "500 000",
+   "currency": "USD",
+   "type": "грант TA на подготовку 1-й фазы проекта",
+   "usd_approx": ""
+  },
+  "funding": "ADB Technical Assistance Special Fund (TASF)",
+  "deadline": "",
+  "contact": "не указано",
+  "it_landscape": "Завершено ТЭО по цифровым подстанциям; потенциал Azerishiq для ADB readiness усилен (по тексту СМИ)",
+  "quote": "improve the readiness of investments in power distribution grid digitalization and renewable energy integration",
+  "service_lines": [
+   "RM",
+   "IS",
+   "AI"
+  ],
+  "why_now": "Гипотеза: ADB готовит Power Distribution Modernization Project с цифровизацией сети — TA-грант на подготовку означает будущие ТЭО и закупки.",
+  "solution": "Гипотеза: [RM] оценка цифровой зрелости распределения и дорожная карта (AMI/ADMS), затем [IS] и [AI] прогноз нагрузки.",
+  "risks": "Грант только рассматривается; страница ADB не открыта; исполнитель прямо не назван.",
+  "next_step": "Найти страницу TA ADB по Azerbaijan Power Distribution Modernization и следить за консалтинговыми уведомлениями.",
+  "reasoning": "Подготовка проекта ADB с цифровизацией сети; источник вторичный, сумма TA мала.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 20,
+   "scale": 4,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 0,
+   "window": 5
+  },
+  "modifiers": [
+   "stale"
+  ],
+  "confidence": "low",
+  "verified": "",
+  "cap": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "KZ",
+  "query_id": "KZ-Q08",
+  "title": "Kazakhstan's Data Center Valley on track to complete first 50 MW facility in June 2027",
+  "url": "https://w.media/kazakhstans-data-center-valley-on-track-to-complete-first-50-mw-facility-in-june-2027/",
+  "other_urls": [
+   "https://dnb.interfax.kz/en/news/80655",
+   "https://timesca.com/kazakhstan-says-10-billion-ai-data-center-project-is-moving-into-deployment/"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-08-13",
+  "event_date": "2027-06-01",
+  "organization": "Правительство РК / Kazakhtelecom (проект Data Center Valley, Екибастуз)",
+  "sector": "Телеком и цифровые сервисы",
+  "trigger": "T2",
+  "stage": "строительство / реализация",
+  "amount": {
+   "value": "10 млрд",
+   "currency": "USD",
+   "type": "соглашения с Firebird (ИИ и цифровая инфраструктура), не ИТ-бюджет",
+   "usd_approx": ""
+  },
+  "funding": "не указано (иностранные инвестиции; соглашения с Firebird, упомянут NVIDIA)",
+  "deadline": "",
+  "contact": "не указано (названы Жаслан Мадиев, вице-премьер - министр ИИ и цифрового развития; Олжас Бектенов, премьер-министр)",
+  "it_landscape": "не указано",
+  "quote": "Data Center Valley is shaping Kazakhstan's new export potential.",
+  "service_lines": [
+   "AI",
+   "RM"
+  ],
+  "reasoning": "Крупная ИИ-инфраструктура, косвенный fit, стройка, контакта нет.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 6,
+   "scale": 15,
+   "mandate": 0,
+   "urgency": 10,
+   "contact": 0,
+   "window": 5
+  },
+  "modifiers": [
+   "stale"
+  ],
+  "confidence": "medium",
+  "cap": "",
+  "verified": "",
+  "why_now": "",
+  "solution": "",
+  "risks": "",
+  "next_step": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "KZ",
+  "query_id": "KZ-Q02",
+  "title": "В Казахстане дан старт формированию национального рынка данных",
+  "url": "https://stat.gov.kz/ru/news/v-kazakhstane-dan-start-formirovaniyu-natsionalnogo-rynka-dannykh/",
+  "other_urls": [
+   "https://bizmedia.kz/2026-06-05-kazahstan-prizval-k-edinoj-platforme-dlya-obmena-dannymi/md/",
+   "https://kapital.kz/tehnology/141561/v-kazahstane-mozhet-poyavitsya-birzha-dannyh.html"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-07-23",
+  "event_date": "2026-07-23",
+  "organization": "АСПиР / Бюро национальной статистики РК",
+  "sector": "Госсектор и квазигос",
+  "trigger": "T4",
+  "stage": "регуляторика (подзаконные акты Цифрового кодекса утверждены)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "Максат Турлубаев, руководитель Бюро национальной статистики (упомянут в тексте)",
+  "it_landscape": "В госреестр внесены первые платформы обмена данными: Astana Data Exchange (ADX), MedEx, Kompra.",
+  "quote": "Цифровой кодекс сформировал правовую основу для запуска национального рынка данных.",
+  "service_lines": [
+   "DG",
+   "RM"
+  ],
+  "reasoning": "Регуляторика рынка данных: косвенный спрос на DG, без проекта.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 0,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "background",
+  "confidence": "high",
+  "verified": "",
+  "why_now": "",
+  "solution": "",
+  "risks": "",
+  "next_step": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "UZ",
+  "query_id": "UZ-Q08",
+  "title": "Узбекистан реализует масштабную программу цифровизации промышленности с инвестициями в $1,2 млрд",
+  "url": "https://www.comnews.ru/content/246638/2026-07-29/2026-w31/1010/uzbekistan-realizuet-masshtabnuyu-programmu-cifrovizacii-promyshlennosti-investiciyami-12-mlrd",
+  "other_urls": [],
+  "source_tier": 2,
+  "pub_date": "2026-07-29",
+  "event_date": "",
+  "organization": "Министерство экономики и финансов Узбекистана; АО «Узбекнефтегаз»; Алмалыкский ГМК",
+  "sector": "Горнодобыча и металлургия",
+  "trigger": "T4",
+  "stage": "госпрограмма, реализация",
+  "amount": {
+   "value": "1,2 млрд",
+   "currency": "USD",
+   "type": "программа цифровизации промышленности (инвестиции)",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "2030-12-31",
+  "contact": "не указано (в статье цитируется Ilkhom Begmatov, территориальный директор Softline в Узбекистане, как комментатор)",
+  "it_landscape": "Алмалыкский ГМК: центр цифрового управления на базе ИИ, мониторинг более 20 тыс. единиц оборудования; Узбекнефтегаз: эффект от цифровизации 64,4 млн USD",
+  "quote": "переходить от разрозненных пилотов к тиражируемым решениям",
+  "service_lines": [
+   "RM",
+   "AI"
+  ],
+  "reasoning": "Широкая программа $1,2 млрд без проектов и контактов.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 0,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 0,
+   "window": 5
+  },
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "background",
+  "confidence": "medium",
+  "verified": "",
+  "why_now": "",
+  "solution": "",
+  "risks": "",
+  "next_step": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "AZ",
+  "query_id": "AZ-Q13",
+  "title": "Indian UFlex Limited set to build $118M plant in Azerbaijan's Alat",
+  "url": "https://www.trend.az/business/4229301.html",
+  "other_urls": [
+   "https://caliber.az/en/post/azerbaijan-attracts-major-indian-investment-for-alat-packaging-plant"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-09-29",
+  "event_date": "",
+  "organization": "UFlex Limited / Flex Films AZB AFEZCO (Alat Free Economic Zone)",
+  "sector": "Промышленность и химия",
+  "trigger": "T2",
+  "stage": "подписано Joint Participation Agreement",
+  "amount": {
+   "value": "117,7 млн",
+   "currency": "USD",
+   "type": "инвестиции в проект (завод)",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "не указано",
+  "it_landscape": "не указано",
+  "quote": "The implementation of this project will contribute to the development of Azerbaijan's non-oil and gas sector",
+  "service_lines": [
+   "IS"
+  ],
+  "reasoning": "Новый завод, ИТ-компонента в тексте нет.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 0,
+   "window": 5
+  },
+  "modifiers": [
+   "off_profile"
+  ],
+  "confidence": "medium",
+  "cap": "",
+  "verified": "",
+  "why_now": "",
+  "solution": "",
+  "risks": "",
+  "next_step": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "AZ",
+  "query_id": "AZ-Q03",
+  "title": "Azerbaijan's State Statistics Committee announces ICT procurement tender / IT infrastructure tender (заголовки Trend.az)",
+  "url": "https://www.trend.az/azerbaijan/4236504.html",
+  "other_urls": [
+   "https://www.trend.az/azerbaijan/4228902.html"
+  ],
+  "source_tier": 3,
+  "pub_date": "2026-10-19",
+  "event_date": "",
+  "organization": "Государственный комитет по статистике Азербайджана",
+  "sector": "Госсектор и квазигос",
+  "trigger": "T1",
+  "stage": "тендер объявлен (детали за пейволлом, статус не подтверждён)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "не указано",
+  "it_landscape": "не указано",
+  "quote": "Azerbaijan's State Statistics Committee announces ICT procurement tender",
+  "service_lines": [
+   "IS"
+  ],
+  "reasoning": "Только заголовок за пейволлом, состав закупки неизвестен.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 0,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 0,
+   "window": 5
+  },
+  "modifiers": [
+   "tier3_only"
+  ],
+  "cap": "background",
+  "confidence": "low",
+  "verified": "",
+  "why_now": "",
+  "solution": "",
+  "risks": "",
+  "next_step": ""
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-2-UZ-01",
+  "query_id": "UZ-Q06"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-UZ-05",
+  "query_id": "UZ-Q08"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-UZ-01",
+  "query_id": "UZ-Q07"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-UZ-04",
+  "query_id": "UZ-Q04"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-UZ-03",
+  "query_id": "UZ-Q02"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-KZ-03",
+  "query_id": "KZ-Q04"
+ }
+]
