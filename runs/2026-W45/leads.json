@@ -1,0 +1,284 @@
+[
+ {
+  "status": "UPDATE",
+  "lead_id": "2026-W43-2-AZ-02",
+  "country": "AZ",
+  "query_id": "AZ-X01",
+  "title": "ADB approves $302 million loan to modernize Baku Metro signaling and digital operations (59447-001)",
+  "url": "https://www.adb.org/projects/59447-001/main",
+  "other_urls": [
+   "https://www.adb.org/news/adb-approves-302-million-loan-modernize-baku-metro-signaling-and-digital-operations",
+   "https://www.trend.az/business/4233962.html",
+   "https://report.az/en/infrastructure/adb-approves-302m-loan-for-baku-metro-upgrade"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-10-13",
+  "event_date": "2026-10-12",
+  "organization": "Baku Metropolitan CJSC (Baku Metro)",
+  "sector": "Логистика и транспорт",
+  "trigger": "T5",
+  "stage": "одобрен ИФИ 2026-10-12; Procurement Plan Sep 2026; контрактов и CSRN пока нет",
+  "amount": {
+   "value": "302,38 млн (кредит ADB); общая стоимость проекта 515,07 млн (AIIB 79,98 млн, правительство 132,71 млн)",
+   "currency": "USD",
+   "type": "кредит ADB / весь проект",
+   "usd_approx": ""
+  },
+  "funding": "ADB OCR (302,38 млн USD), софинансирование AIIB 79,98 млн USD, правительство Азербайджана 132,71 млн USD",
+  "deadline": "",
+  "contact": "ADB: Kang, Ji Woon, Project Officer (SD1-TRA), jikang@adb.org (ссылка Request for information на странице проекта); исполнитель — Baku Metropolitan CJSC",
+  "it_landscape": "Новая система сигнализации и модернизация центра управления; интегрированные цифровые системы для корпоративных функций, управления активами, кибербезопасности, информирования пассажиров и управления пассажиропотоком; модернизация ЦОД и сети (пресс-релиз ADB).",
+  "quote": "Advanced signaling technology and integrated digital operations systems will make existing services safer and more reliable",
+  "service_lines": [
+   "IS",
+   "DG",
+   "RM"
+  ],
+  "why_now": "Гипотеза: проект одобрен 12.10.2026, в объём явно вошли корпоративные ИС, управление активами (EAM), кибербезопасность и ЦОД — консультанты PMU и ИТ-пакеты будут закупаться в ближайшие месяцы.",
+  "solution": "Гипотеза: [RM] оценка as-is и дорожная карта цифровизации операций метро для PMU, затем [IS] сопровождение выбора и приёмки EAM/корпоративных ИС и [DG] архитектура данных эксплуатации.",
+  "risks": "Консалтинговых уведомлений (CSRN) пока нет; крупные пакеты могут уйти интеграторам сигнализации; контакт Baku Metro по EME не подтверждён прочитанной страницей.",
+  "next_step": "Написать Ji Woon Kang (ADB) с запросом Procurement Plan 59447-001 и сроков консалтинговых пакетов по корпоративным ИС и EAM.",
+  "reasoning": "Одобренный кредит ADB+AIIB, ИТ-компоненты названы, закупки впереди, контакт есть.",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "modifiers": [],
+  "cap": "",
+  "confidence": "high",
+  "verified": "yes"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "KZ",
+  "query_id": "KZ-Q02",
+  "title": "Зачем правительству Казахстана срочно понадобилось озеро данных (транспорт и логистика)",
+  "url": "https://www.lada.kz/kazakhstan-news/154382-zachem-pravitelstvu-kazakhstana-srochno-ponadobilos-ozero-dannykh.html",
+  "other_urls": [],
+  "source_tier": 2,
+  "pub_date": "2026-06-17",
+  "event_date": "2026-12-31",
+  "organization": "Правительство РК / Министерство транспорта РК / АО «НК «ҚТЖ» (KTZ)",
+  "sector": "Логистика и транспорт",
+  "trigger": "T4",
+  "stage": "планирование (поручение премьера, запуск до конца 2026)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "2026-12-31",
+  "contact": "не указано",
+  "it_landscape": "не указано; цели — централизованное озеро данных по грузопотокам, ИИ-планирование и предиктивное обслуживание (заявлены как цели, не внедрены)",
+  "quote": "Создать единое цифровое пространство («озеро данных»), которое свяжет воедино всех участников рынка",
+  "service_lines": [
+   "DG",
+   "AI",
+   "RM"
+  ],
+  "why_now": "Гипотеза: до срока запуска «до конца 2026» меньше двух месяцев — Минтрансу и KTZ нужны архитектура данных, модель управления данными и интеграция участников рынка; KTZ параллельно готовит IPO.",
+  "solution": "Гипотеза: [DG] модель управления данными и архитектура отраслевого озера данных (роли, стандарты обмена, качество), [RM] дорожная карта поэтапного запуска; далее [AI] сценарии ИИ-планирования перевозок.",
+  "risks": "Подтверждение только вторичное (lada.kz со ссылкой на zakon.kz); материал июня 2026, ход работ неизвестен; исполнитель может быть назначен из подведомственных (QazTech, Astana Hub).",
+  "next_step": "Найти протокол поручения на primeminister.kz и выйти на департамент цифровизации Минтранса с предложением по data governance озера данных.",
+  "reasoning": "Прямой DG/AI, поручение премьера с дедлайном, но устарело и нет бюджета.",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 10,
+   "contact": 0,
+   "window": 5
+  },
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "",
+  "confidence": "medium",
+  "verified": "yes"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "KZ",
+  "query_id": "KZ-Q10",
+  "title": "KazMunayGas set to deploy digital twins at 12 oil fields by end-2028",
+  "url": "https://www.trend.az/casia/kazakhstan/4230898.html",
+  "other_urls": [
+   "https://www.trend.az/casia/kazakhstan/4231687.html"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-10-03",
+  "event_date": "2028-12-31",
+  "organization": "АО НК «КазМунайГаз» (KMG)",
+  "sector": "Нефть и газ",
+  "trigger": "T6",
+  "stage": "внедрение: первый цифровой двойник на Восточном Молдабеке реализован, масштабирование на 12 месторождений к концу 2028",
+  "amount": {
+   "value": "326 млрд",
+   "currency": "KZT",
+   "type": "ожидаемый экономический эффект (не бюджет проекта)",
+   "usd_approx": "≈ 737,8 млн (по тексту источника)"
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "Председатель правления KMG Асхат Хасенов (выступление на форуме AI & Digital Bridge 2026); прямых контактов нет",
+  "it_landscape": "ИИ-система цифровых двойников объединяет данные пласта, скважин и добычи; первый проект — месторождение Восточный Молдабек (Эмбамунайгаз).",
+  "quote": "AI processes large amounts of data and generates recommendations within several hours",
+  "service_lines": [
+   "AI",
+   "DG",
+   "RM"
+  ],
+  "why_now": "Гипотеза: масштабирование с одного месторождения на 12 (90%+ добычи) за два года упирается в качество и единую модель данных по пласту и скважинам — нужен независимый data/AI-партнёр на тиражирование.",
+  "solution": "Гипотеза: [RM] оценка готовности данных 12 месторождений и дорожная карта тиражирования, [DG] модель и качество данных разработки, [AI] MLOps для цифровых двойников.",
+  "risks": "Подрядчик/разработчик не назван, вероятно внутренняя ИТ-команда KMG; закупки Самрук-Казына с 21.09.2026 в пилоте приоритета резидентов Astana Hub; первоисточник KMG не найден.",
+  "next_step": "Выйти на дирекцию цифровизации KMG с предложением оценки готовности данных месторождений к тиражированию цифровых двойников.",
+  "reasoning": "Прямой AI, масштабирование с датой, без бюджета и открытой закупки.",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 14,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 10,
+   "contact": 10,
+   "window": 5
+  },
+  "modifiers": [],
+  "cap": "",
+  "confidence": "medium",
+  "verified": "partial"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "UZ",
+  "query_id": "UZ-Q04",
+  "title": "Uzbekistan GTL privatization: concept developed, IPO also being prepared",
+  "url": "https://www.spot.uz/en/2026/10/09/uzbekistan-gtl/",
+  "other_urls": [],
+  "source_tier": 2,
+  "pub_date": "2026-10-09",
+  "event_date": "2026-10-08",
+  "organization": "Uzbekistan GTL / Агентство по управлению государственными активами",
+  "sector": "Нефть и газ",
+  "trigger": "T3",
+  "stage": "планирование",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "Директор Агентства по управлению государственными активами Сохибжон Муродов (автор заявления); контактов нет",
+  "it_landscape": "не указано",
+  "quote": "If we proceed with an IPO, there will also be investors willing to acquire small stakes in GTL",
+  "service_lines": [
+   "DD",
+   "RM"
+  ],
+  "why_now": "Гипотеза: концепция приватизации готова и рассматривается IPO — покупателям и государству понадобится IT due diligence и готовность отчётности завода.",
+  "solution": "Гипотеза: [DD] ИТ- и data due diligence Uzbekistan GTL для продавца (Агентство) или потенциальных инвесторов, [RM] план устранения разрывов до IPO.",
+  "risks": "Сроков нет, тендер по декрету 2025 сдвигался; советники не названы; финпоказатели не раскрыты.",
+  "next_step": "Запросить у Агентства по управлению госактивами порядок отбора консультантов по приватизации Uzbekistan GTL.",
+  "reasoning": "Косвенный DD, госприватизация, именное лицо, но без сроков и суммы.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 15,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "modifiers": [],
+  "cap": "",
+  "confidence": "medium",
+  "verified": "yes"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "country": "UZ",
+  "query_id": "UZ-Q07",
+  "title": "Qurilishda yangi davr: raqamlashtirish, sun'iy intellekt va yirik loyihalar (Минстрой: Shaffof qurilish, Shaffof AI)",
+  "url": "https://gov.uz/oz/mc/news/view/227563",
+  "other_urls": [],
+  "source_tier": 1,
+  "pub_date": "2026-10-02",
+  "event_date": "",
+  "organization": "Министерство строительства, жилья и коммунального хозяйства Республики Узбекистан",
+  "sector": "Строительство и недвижимость",
+  "trigger": "T6",
+  "stage": "внедрение",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "не указано (на сайте только горячая линия 1298)",
+  "it_landscape": "Национальная ИС «Shaffof qurilish»: запущено 25 информационных систем и электронных платформ, электронный рейтинг подрядчиков, платформа госзакупок, экосистема «Shaffof AI» (ИИ-анализ проектной документации, оцифрованная экспертиза), внедряется поэтапно.",
+  "quote": "Qurilish sohasi mamlakatimiz iqtisodiyotining eng jadal rivojlanayotgan tarmoqlaridan biriga aylandi.",
+  "service_lines": [
+   "AI",
+   "RM"
+  ],
+  "why_now": "Гипотеза: поэтапное внедрение экосистемы Shaffof AI может породить потребность в аудите и второй очереди.",
+  "solution": "Гипотеза: [RM] оценка экосистемы 25 ИС и дорожная карта развития Shaffof AI.",
+  "risks": "Обзорная публикация без закупок, сумм и сроков.",
+  "next_step": "Отслеживать закупки Минстроя по Shaffof AI.",
+  "reasoning": "ИИ в строительном регуляторе, но обзор без проекта, бюджета и срока.",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 6,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 5,
+   "window": 5
+  },
+  "modifiers": [
+   "stale"
+  ],
+  "cap": "background",
+  "confidence": "medium",
+  "verified": ""
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-KZ-03",
+  "query_id": "KZ-Q04",
+  "country": "KZ"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-2-AZ-03",
+  "query_id": "AZ-X02",
+  "country": "AZ"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-UZ-02",
+  "query_id": "UZ-Q02",
+  "country": "UZ"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-UZ-01",
+  "query_id": "UZ-X3",
+  "country": "UZ"
+ }
+]

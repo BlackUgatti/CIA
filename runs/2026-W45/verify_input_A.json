@@ -1,0 +1,96 @@
+[
+ {
+  "index": 0,
+  "url": "https://www.trend.az/casia/kazakhstan/4230898.html",
+  "other_urls": [
+   "https://www.trend.az/casia/kazakhstan/4231687.html"
+  ],
+  "organization": "АО НК «КазМунайГаз» (KMG)",
+  "pub_date": "2026-10-03",
+  "event_date": "2028-12-31",
+  "stage": "внедрение (пилот завершён, масштабирование на 12 месторождений)",
+  "amount": {
+   "value": "326 млрд",
+   "currency": "KZT",
+   "type": "ожидаемый экономический эффект (не бюджет проекта)",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "не указано",
+  "contact": "не указано (только пресс-служба компании, без контактов)",
+  "it_landscape": "ИИ-система цифровых двойников объединяет данные пласта, скважин и добычи; пилот на месторождении Восточный Молдабек (Эмбамунайгаз); часть информационной системы ABAI (по вторичному пересказу поиска)",
+  "quote": "AI processes large amounts of data and generates recommendations within several hours",
+  "source_tier": 2,
+  "check_also": "Найди первоисточник (kmg.kz, gov.kz, primeminister.kz) о цифровых двойниках на 12 месторождениях к концу 2028; подтверди, кто заявил (Хасенов), дату, 326 млрд KZT как эффект, наличие ABAI. Подтверди дословность цитаты."
+ },
+ {
+  "index": 1,
+  "url": "https://www.lada.kz/kazakhstan-news/154382-zachem-pravitelstvu-kazakhstana-srochno-ponadobilos-ozero-dannykh.html",
+  "other_urls": [],
+  "organization": "Правительство РК / Минтранс / АО «НК «ҚТЖ» (KTZ)",
+  "pub_date": "2026-06-17",
+  "event_date": "2026-12-31",
+  "stage": "планирование (поручение премьера, запуск до конца 2026)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "2026-12-31",
+  "contact": "не указано",
+  "it_landscape": "не указано; планируется централизованное озеро данных по грузопотокам, ИИ-планирование, предиктивное обслуживание",
+  "quote": "Создать единое цифровое пространство («озеро данных»), которое свяжет воедино всех участников рынка",
+  "source_tier": 2,
+  "check_also": "Найди первоисточник поручения премьера Бектенова создать озеро данных по транспорту/логистике до конца 2026 (primeminister.kz, zakon.kz). Подтверди дату, сроки, ответственных (Минтранс, KTZ), цитату. Есть ли более свежие новости (после 2026-10-03) о ходе работ?"
+ },
+ {
+  "index": 2,
+  "url": "https://www.spot.uz/en/2026/10/09/uzbekistan-gtl/",
+  "other_urls": [],
+  "organization": "Uzbekistan GTL / Агентство по управлению государственными активами",
+  "pub_date": "2026-10-09",
+  "event_date": "2026-10-08",
+  "stage": "планирование",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "не указано",
+  "contact": "Директор Агентства по управлению государственными активами Сохибжон Мурадов (названо как источник заявления; контактов нет)",
+  "it_landscape": "не указано",
+  "quote": "If we proceed with an IPO, there will also be investors willing to acquire small stakes in GTL",
+  "source_tier": 2,
+  "check_also": "Подтверди: пресс-конференция 2026-10-08, концепция приватизации Uzbekistan GTL, вариант IPO, заявление директора Агентства по управлению госактивами Сохибжона Мурадова; назван ли советник/консультант; цитата дословно."
+ },
+ {
+  "index": 3,
+  "url": "https://www.adb.org/news/adb-approves-302-million-loan-modernize-baku-metro-signaling-and-digital-operations",
+  "other_urls": [
+   "https://www.adb.org/projects/59447-001/main",
+   "https://www.trend.az/business/4233962.html",
+   "https://report.az/en/infrastructure/adb-approves-302m-loan-for-baku-metro-upgrade"
+  ],
+  "organization": "Baku Metropolitan CJSC (Baku Metro)",
+  "pub_date": "2026-10-13",
+  "event_date": "2026-10-12",
+  "stage": "проект одобрен ИФИ; закупки предстоят",
+  "amount": {
+   "value": "302,38 млн",
+   "currency": "USD",
+   "type": "кредит ADB (общая стоимость проекта 515,07 млн USD; AIIB 79,98 млн; правительство 132,71 млн)",
+   "usd_approx": ""
+  },
+  "funding": "ADB (кредит, OCR), софинансирование AIIB 79,98 млн USD, правительство Азербайджана 132,71 млн USD",
+  "deadline": "",
+  "contact": "ADB: Project Officer Kang, Ji Woon (SD1-TRA), jikang@adb.org (страница проекта); Executing Agency: Baku Metropolitan CJSC; пресс-контакты ADB: Duncan McLeod, Senior Communications Specialist",
+  "it_landscape": "Замена сигнализации на CBTC, модернизация центра управления; интегрированные цифровые системы для корпоративных функций, управления активами, кибербезопасности, информирования пассажиров, управления толпой; модернизация ЦОД и сети.",
+  "quote": "Advanced signaling technology and integrated digital operations systems will make existing services safer and more reliable",
+  "source_tier": 1,
+  "check_also": "Подтверди новые факты: общая стоимость проекта 515,07 млн USD, правительство 132,71 млн, AIIB 79,98 млн; ИТ-состав (CBTC, центр управления, корпоративные системы, управление активами, кибербезопасность, ЦОД и сеть); контакт Kang Ji Woon. Есть ли уже консалтинговые уведомления (CSRN) по 59447?"
+ }
+]

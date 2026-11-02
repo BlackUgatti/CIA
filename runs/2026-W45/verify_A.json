@@ -1,0 +1,78 @@
+[
+  {
+    "index": 0,
+    "url": "https://www.trend.az/casia/kazakhstan/4230898.html",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "KazMunayGas (KMG); Chairman of the Board Askhat Khassenov, AI & Digital Bridge 2026, Astana; данные пресс-службы KMG"},
+      "pub_date": {"verdict": "confirmed", "evidence": "2026-10-03 13:44 (trend.az). Второй материал 4231687 датирован 2026-10-06"},
+      "event_date": {"verdict": "confirmed", "evidence": "KMG plans to deploy digital twins at 12 oil fields by the end of 2028 (>90% добычи группы)"},
+      "stage": {"verdict": "not_found", "correct": "план масштабирования цифровых двойников на 12 месторождений к концу 2028; цифровой двойник на Восточном Молдабеке (Эмбамунайгаз) уже реализован", "evidence": "Слова 'pilot'/'пилот' в тексте нет. В 4231687: 'The first digital twin project using artificial intelligence has been implemented at the East Moldabek field'; 'scaling up' есть. Формулировка 'пилот завершён' - интерпретация, не цитата"},
+      "amount": {"verdict": "confirmed", "evidence": "the economic effect is estimated at 326 billion tenge (about $737.8 million), связано с +2,8 млн т нефти. Это эффект, не бюджет - тип указан верно. usd_approx можно заполнить: ~737,8 млн USD (по тексту)"},
+      "funding": {"verdict": "confirmed", "evidence": "не указано в тексте"},
+      "deadline": {"verdict": "confirmed", "evidence": "дедлайна/тендера нет; конец 2028 - срок плана, не срок подачи"},
+      "contact": {"verdict": "confirmed", "evidence": "только ссылка на пресс-службу KMG, контактов нет"},
+      "it_landscape": {"verdict": "not_found", "correct": "ИИ-цифровой двойник объединяет данные пласта, скважин и добычи, считает сценарии разработки; Восточный Молдабек (Эмбамунайгаз, Атырауская обл.), ~700 сценариев, данные по скважинам обновляются каждые 5 минут. Упоминание ABAI отсутствует", "evidence": "'ABAI' не встречается ни в 4230898, ни в 4231687. Убрать 'часть информационной системы ABAI'"},
+      "quote": {"verdict": "confirmed", "evidence": "AI processes large amounts of data and generates recommendations within several hours (дословно в 4230898; в 4231687 этой фразы нет)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "trend.az - СМИ, перепечатка пресс-релиза KMG; tier 2 соответствует. Первоисточник (kmg.kz/gov.kz) не найден/не проверялся"}
+    },
+    "notes": "Ключевые поля (организация, сумма, срок 2028) подтверждены. Исправить: убрать ABAI; стадию переформулировать (нет слова 'пилот'). Статья 4231687 (06.10) НЕ подтверждает 326 млрд, срок 2028 и цитату - по ней другие цифры (600+ сценариев за 6 дней, топ-12 месторождений, эффект 2,9 млн т к 2030). Хасенов подтверждён как выступающий; в 4230898 он докладывал премьеру Бектенову."
+  },
+  {
+    "index": 1,
+    "url": "https://www.lada.kz/kazakhstan-news/154382-zachem-pravitelstvu-kazakhstana-srochno-ponadobilos-ozero-dannykh.html",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "поручение премьера О. Бектенова Минтрансу и нацкомпании КТЖ"},
+      "pub_date": {"verdict": "confirmed", "evidence": "17 June 2026, 06:40 (шапка страницы)"},
+      "event_date": {"verdict": "confirmed", "evidence": "'до конца 2026 года'; платформа должна быть запущена до конца текущего года (2026-12-31 - интерпретация конца года)"},
+      "stage": {"verdict": "confirmed", "evidence": "поручение дано, запуск к концу 2026; планирование/запуск, внедрение не подтверждено"},
+      "amount": {"verdict": "confirmed", "evidence": "суммы в тексте нет"},
+      "funding": {"verdict": "confirmed", "evidence": "источник финансирования не указан"},
+      "deadline": {"verdict": "confirmed", "evidence": "срок запуска платформы - конец 2026, не истёк на 2026-11-02 (осталось ~2 месяца). Это срок исполнения поручения, не тендерный дедлайн"},
+      "contact": {"verdict": "confirmed", "evidence": "контактов нет"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "ИИ-планирование маршрутов и расписаний, прогноз износа пути и проактивный ремонт на предиктивной аналитике - описаны как цели/ожидаемые эффекты, не как внедрённое"},
+      "quote": {"verdict": "confirmed", "evidence": "Создать единое цифровое пространство («озеро данных»), которое свяжет воедино всех участников рынка (дословно, блок-цитата)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "lada.kz - вторичная перепечатка со ссылкой на Zakon.kz; tier 2 соответствует. Первоисточник (zakon.kz / primeminister.kz / gov.kz) через WebSearch не найден, kazpravda.kz вернул 403"}
+    },
+    "notes": "Поручение подтверждено только вторичным источником (lada.kz со ссылкой на zakon.kz); в самом тексте есть обрывы. Новостей о ходе работ после 2026-10-03 не найдено. Материал от июня 2026, возраст ~4,5 мес.: перед звонком проверить актуальность. Конкретной формулировки поручения 'озеро данных по транспорту/логистике' на gov-сайтах не обнаружено."
+  },
+  {
+    "index": 2,
+    "url": "https://www.spot.uz/en/2026/10/09/uzbekistan-gtl/",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Uzbekistan GTL; State Assets Management Agency"},
+      "pub_date": {"verdict": "confirmed", "evidence": "9 October 2026, 17:42"},
+      "event_date": {"verdict": "confirmed", "evidence": "press conference October 8, 2026"},
+      "stage": {"verdict": "confirmed", "evidence": "concept of privatization developed; текущий этап - аудит финансово-хозяйственной деятельности и оценка влияния приватизации; подготовка к IPO начата"},
+      "amount": {"verdict": "confirmed", "evidence": "суммы в тексте нет"},
+      "funding": {"verdict": "confirmed", "evidence": "не указано"},
+      "deadline": {"verdict": "confirmed", "evidence": "дедлайна нет"},
+      "contact": {"verdict": "contradicted", "correct": "Sokhibjon Murodov (написание в источнике - Murodov, не Muradov), director of the State Assets Management Agency; контактов нет", "evidence": "Murodov, director of the State Assets Management Agency, said: \"This is a good signal for us.\""},
+      "it_landscape": {"verdict": "confirmed", "evidence": "ИТ-контекста в тексте нет"},
+      "quote": {"verdict": "confirmed", "evidence": "If we proceed with an IPO, there will also be investors willing to acquire small stakes in GTL (дословно, цитата Murodov)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "spot.uz - СМИ; tier 2 соответствует"}
+    },
+    "notes": "Исправить написание фамилии: Мурадов -> Муродов (Murodov). Советник/консультант по приватизации/IPO в тексте не назван. По тексту международные организации обращались в Агентство по срокам IPO. Это приватизационная новость без ИТ-составляющей в источнике."
+  },
+  {
+    "index": 3,
+    "url": "https://www.adb.org/news/adb-approves-302-million-loan-modernize-baku-metro-signaling-and-digital-operations",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Baku Metropolitan CJSC указан как Executing Agency на странице проекта 59447-001: 'Baku Metropolitan Closed Joint Stock Company'; в пресс-релизе назван как оператор метро"},
+      "pub_date": {"verdict": "confirmed", "evidence": "13 October 2026 (ADB news, trend.az)"},
+      "event_date": {"verdict": "confirmed", "evidence": "Approval date на странице проекта: 12 October 2026"},
+      "stage": {"verdict": "confirmed", "evidence": "кредит одобрен; на странице проекта 'No contracts awarded for this project were found'"},
+      "amount": {"verdict": "confirmed", "evidence": "approved a loan of $302.38 million; The total cost of the project is approximately $515.07 million (trend.az, ADB news); AIIB co-financing $79.98 million; Government of Azerbaijan $132.71 million. На странице проекта общая стоимость не указана, там лишь займы ADB 302.38 (Loan 04822, OCR) и AIIB 79.98 (Loan 08545)"},
+      "funding": {"verdict": "confirmed", "evidence": "ADB (OCR) 302.38, AIIB 79.98, правительство Азербайджана 132.71 млн USD. Формулировка 'expected to' - софинансирование AIIB и вклад правительства ожидаемые"},
+      "deadline": {"verdict": "not_found", "correct": "не указано", "evidence": "поле пустое; единственный найденный дедлайн - Early Market Engagement (уведомление 10 Apr 2026, срок 30 Apr 2026) уже закрыт; действующих тендеров/CSRN на странице проекта нет"},
+      "contact": {"verdict": "confirmed", "evidence": "Project officer 'Kang, Ji Woon' (Sectors Department 1), jikang@adb.org (адрес только в ссылке 'Request for information', не виден как текст); Duncan McLeod, Senior Communications Specialist - в пресс-релизе ADB"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "replace the existing signaling system with modern, communications-based train control technology; upgrading operations control center; integrated digital systems for corporate operations, asset management, cybersecurity; passenger information, crowd management; upgraded data centers and secure network infrastructure. Аббревиатура CBTC в тексте не используется"},
+      "quote": {"verdict": "confirmed", "evidence": "Advanced signaling technology and integrated digital operations systems will make existing services safer and more reliable (дословно)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "adb.org - первичный сайт ИФИ, tier 1 соответствует"}
+    },
+    "notes": "CSRN/consulting notices по 59447-001 не найдены; есть только закрытое приглашение Early Market Engagement (30 Apr 2026, контакт bmep-group@metro.gov.az). Метро-закупки: сигнализация и консалтинг по управлению проектом/надзору упомянуты в EME-приглашении. В поле deadline заменить пустое значение на 'не указано'. report.az вернул 403, проверен по trend.az и ADB."
+  }
+]
