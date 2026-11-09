@@ -1,0 +1,270 @@
+[
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "KZ-Q11",
+  "country": "KZ",
+  "sector": "Энергетика и зелёная энергетика",
+  "organization": "ТОО «Карагандылық Жарық» (Karagandy Zharyk LLP, Kazakhstan Utility Systems)",
+  "trigger": "T5",
+  "service_lines": [
+   "RM",
+   "DG",
+   "IS"
+  ],
+  "title": "EBRD PSD 56410 — Kazakh Grid Enhancement Project: Karaganda Distribution",
+  "url": "https://www.ebrd.com/home/work-with-us/projects/psd/56410.html",
+  "other_urls": [
+   "https://ewsdata.rightsindevelopment.org/projects/EBRD-56410/"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-10-30",
+  "event_date": "2026-12-16",
+  "stage": "In Exploratory, Pending Final Review; плановая дата одобрения 16.12.2026",
+  "amount": {
+   "value": "до 70,7 млрд",
+   "currency": "KZT",
+   "type": "кредит ЕБРД (≈ EUR 140,2 млн по PSD), инвестпрограмма 2027–2031",
+   "usd_approx": ""
+  },
+  "funding": "ЕБРД, senior loan; TC: техническая и E&S due diligence (EUR 75 тыс. и 50 тыс., Shareholder Special Fund)",
+  "deadline": "",
+  "contact": "Gulmira Asmakova, AsmakovaG@kzharyk.kz (контакт компании в PSD); ЕБРД: projectenquiries@ebrd.com",
+  "it_landscape": "смарт-счётчики с дистанционным считыванием, двусторонней связью и удалённым управлением подачей; вендоры не названы",
+  "quote": "deployment of smart metering equipment",
+  "why_now": "Гипотеза: до одобрения советом ЕБРД (16.12.2026) и до объявления закупок по смарт-метерингу клиент формирует ТЗ; у Алатау Жарык по аналогичному проекту 56504 тендер Smart Grid/АСКУЭ вышел через ~1 мес. после одобрения.",
+  "solution": "Гипотеза: [RM] оценка as-is и дорожная карта АСКУЭ/AMI для Karagandy Zharyk, затем [IS] сопровождение выбора и приёмки HES/MDM и интеграции с биллингом, [DG] модель данных учёта.",
+  "risks": "Проект ещё не одобрен; закупки пойдут через ECEPP по правилам ЕБРД, крупные пакеты — поставщикам оборудования; консалтинг может быть включён в пакет поставки.",
+  "next_step": "Написать Гульмире Асмаковой (Karagandy Zharyk) с предложением предварительной оценки готовности к АСКУЭ и запросить план закупок по 56410.",
+  "reasoning": "ИФИ-кредит Tier 1, крупный масштаб, дата одобрения, контакт; ИТ-потребность косвенная.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 20,
+   "scale": 15,
+   "mandate": 15,
+   "urgency": 10,
+   "contact": 10,
+   "window": 5
+  },
+  "modifiers": [],
+  "cap": "",
+  "confidence": "high",
+  "verified": "yes"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "AZ-Q03",
+  "country": "AZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Агентство инноваций и цифрового развития Азербайджана (IDDA)",
+  "trigger": "T4",
+  "service_lines": [
+   "DG",
+   "RM",
+   "AI"
+  ],
+  "title": "Azerbaijan to expand private sector access to state information systems (IDDA, Shahin Aliyev)",
+  "url": "https://en.apa.az/ict/azerbaijan-to-expand-private-sector-access-to-state-information-systems-531553",
+  "other_urls": [
+   "https://www.trend.az/azerbaijan/4237799.html"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-10-22",
+  "event_date": "2026-10-22",
+  "stage": "планирование: национальная рамка обмена данными, гособлако, национальное пространство данных; следующий этап — доступ частного сектора",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "Shahin Aliyev, заместитель председателя правления IDDA (спикер конференции Digital Financial Ecosystem); контактных данных нет",
+  "it_landscape": "обмен данными между госорганами через Electronic Government Information System; консолидация данных в государственном облаке (по Trend)",
+  "quote": "At the next stage, we are considering providing similar integration opportunities for the private sector as well.",
+  "why_now": "Гипотеза: правила доступа частного сектора к госданным и рамка обмена данными только проектируются — окно для методологии до выбора исполнителя.",
+  "solution": "Гипотеза: [DG] рамка обмена данными (роли, политики, каталог, ПДн) и [RM] дорожная карта национального пространства данных для IDDA; затем [AI] сценарии использования агентных ИИ.",
+  "risks": "Только заявление на конференции: нет бюджета, срока, процедуры закупки; работу может вести сама IDDA или её подведомственные структуры.",
+  "next_step": "Через IDDA выйти на Шахина Алиева с предложением экспертной сессии по модели data governance для обмена данными с частным сектором.",
+  "reasoning": "Прямой DG-fit и стадия планирования, но без бюджета, сроков и мандата.",
+  "score_breakdown": {
+   "fit": 25,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "modifiers": [],
+  "cap": "",
+  "confidence": "medium",
+  "verified": "partial"
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "AZ-Q02",
+  "country": "AZ",
+  "sector": "Госсектор и квазигос",
+  "organization": "Государственная служба специальной связи и информационной безопасности Азербайджана",
+  "trigger": "T4",
+  "service_lines": [
+   "AI",
+   "DG"
+  ],
+  "title": "Azerbaijan to adopt new requirements for safe use of artificial intelligence",
+  "url": "https://en.apa.az/ict/azerbaijan-to-adopt-new-requirements-for-safe-use-of-artificial-intelligence-531082",
+  "other_urls": [
+   "https://mincom.gov.az/en/media-en/news/azerbaijan-begins-adopting-national-standards-for-ai-implementation"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-10-20",
+  "event_date": "2026-10-20",
+  "stage": "планируется принятие требований безопасного использования ИИ и правил этичного ИИ в госорганах",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "Nadir Novruzov (докладчик на саммите ИТ-руководителей госорганов)",
+  "it_landscape": "AZSTAND принял пять стандартов по ИИ; ИИ-решения внедряются в МВД, Минюсте, Минсельхозе (по тексту статьи)",
+  "quote": "не указано",
+  "why_now": "",
+  "solution": "",
+  "risks": "",
+  "next_step": "",
+  "reasoning": "Регуляторная декларация без проекта, бюджета и сроков — фон для AI governance.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 20,
+   "scale": 0,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 10,
+   "window": 5
+  },
+  "modifiers": [],
+  "cap": "background",
+  "confidence": "medium",
+  "verified": ""
+ },
+ {
+  "status": "NEW",
+  "lead_id": "",
+  "query_id": "KZ-Q01",
+  "country": "KZ",
+  "sector": "Телеком и цифровые сервисы",
+  "organization": "Freedom Holding Corp. (Sovereign AI Hub)",
+  "trigger": "T2",
+  "service_lines": [
+   "AI",
+   "RM"
+  ],
+  "title": "Nvidia chief backs Kazakhstan's ambition to export AI computing",
+  "url": "https://cyprus-mail.com/2026/10/23/nvidia-chief-backs-kazakhstans-ambition-to-export-ai-computing",
+  "other_urls": [
+   "https://thenextweb.com/news/freedom-holding-2bn-sovereign-ai-hub-kazakhstan"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-10-23",
+  "event_date": "2026-10-23",
+  "stage": "реализация: соглашение 2025 г., первый GPU-кластер на NVIDIA B300 — 2027",
+  "amount": {
+   "value": "2 млрд",
+   "currency": "USD",
+   "type": "весь проект (Sovereign AI Hub)",
+   "usd_approx": ""
+  },
+  "funding": "Freedom Holding — основной партнёр по финансированию",
+  "deadline": "",
+  "contact": "не указано",
+  "it_landscape": "технологический партнёр NVIDIA; площадка 100 МВт",
+  "quote": "Kazakhstan is the first country I've visited where the president declared AI development a national priority.",
+  "why_now": "",
+  "solution": "",
+  "risks": "",
+  "next_step": "",
+  "reasoning": "ИИ-инфраструктура ЦОД, вендор назван, наша услуга косвенна.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 6,
+   "scale": 15,
+   "mandate": 0,
+   "urgency": 0,
+   "contact": 0,
+   "window": 0
+  },
+  "modifiers": [],
+  "cap": "background",
+  "confidence": "medium",
+  "verified": ""
+ },
+ {
+  "status": "UPDATE",
+  "lead_id": "2026-W44-KZ-02",
+  "query_id": "KZ-Q08",
+  "country": "KZ",
+  "sector": "Телеком и цифровые сервисы",
+  "organization": "Правительство РК / Kazakhtelecom (проект Data Center Valley, Екибастуз)",
+  "trigger": "T2",
+  "service_lines": [
+   "AI",
+   "RM"
+  ],
+  "title": "Nvidia chief backs Kazakhstan's ambition to export AI computing (Data Center Valley)",
+  "url": "https://cyprus-mail.com/2026/10/23/nvidia-chief-backs-kazakhstans-ambition-to-export-ai-computing",
+  "other_urls": [
+   "https://timesca.com/kazakhstan-data-center-valley-firebird-nvidia/",
+   "https://w.media/kazakhstans-data-center-valley-on-track-to-complete-first-50-mw-facility-in-june-2027/"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-10-23",
+  "event_date": "2027-06-01",
+  "stage": "строительство; первая очередь — июнь 2027",
+  "amount": {
+   "value": "до 10 млрд",
+   "currency": "USD",
+   "type": "соглашения с NVIDIA и Firebird, не ИТ-бюджет",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "не указано",
+  "it_landscape": "Kazakhtelecom планирует более 1000 GPU NVIDIA Vera Rubin в Екибастузе в 2027; партнёры NVIDIA и Firebird",
+  "quote": "Capacity for the first 215-megawatt phase has already been fully reserved.",
+  "why_now": "",
+  "solution": "",
+  "risks": "",
+  "next_step": "",
+  "reasoning": "Новые факты: фаза 215 МВт забронирована; инфраструктура ЦОД, вендоры названы.",
+  "score_breakdown": {
+   "fit": 12,
+   "stage": 6,
+   "scale": 15,
+   "mandate": 0,
+   "urgency": 10,
+   "contact": 0,
+   "window": 0
+  },
+  "modifiers": [],
+  "cap": "background",
+  "confidence": "medium",
+  "verified": ""
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W43-KZ-01",
+  "query_id": "KZ-Q11"
+ },
+ {
+  "status": "SEEN",
+  "lead_id": "2026-W45-KZ-02",
+  "query_id": "KZ-Q10"
+ }
+]

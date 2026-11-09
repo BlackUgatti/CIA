@@ -1,5 +1,5 @@
 {
-  "scan_count": 4,
+  "scan_count": 5,
   "runs": [
     {
       "run_id": "2026-W43",
@@ -52,6 +52,19 @@
       "hot": 1,
       "warm": 3,
       "background": 1
+    },
+    {
+      "run_id": "2026-W46",
+      "date": "2026-11-09",
+      "scan_index": 5,
+      "queries": 37,
+      "tech_errors": 0,
+      "new": 4,
+      "update": 1,
+      "seen": 2,
+      "hot": 1,
+      "warm": 1,
+      "background": 3
     }
   ]
 }

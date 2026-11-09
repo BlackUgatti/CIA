@@ -1,0 +1,48 @@
+[
+ {
+  "index": 0,
+  "url": "https://www.ebrd.com/home/work-with-us/projects/psd/56410.html",
+  "other_urls": [
+   "https://ewsdata.rightsindevelopment.org/projects/EBRD-56410/"
+  ],
+  "source_tier": 1,
+  "pub_date": "2026-10-30",
+  "event_date": "2026-12-16",
+  "organization": "Karagandy Zharyk LLP (KZh), входит в Kazakhstan Utility Systems",
+  "stage": "In Exploratory, Pending Final Review; дата одобрения 16.12.2026",
+  "amount": {
+   "value": "до 70,7 млрд",
+   "currency": "KZT",
+   "type": "кредит (senior loan, эквивалент EUR 140,2 млн)",
+   "usd_approx": ""
+  },
+  "funding": "EBRD (senior loan)",
+  "deadline": "",
+  "contact": "Gulmira Asmakova, AsmakovaG@kzharyk.kz (контакт компании в PSD)",
+  "it_landscape": "не указано (в проекте предусмотрены смарт-счётчики с дистанционным считыванием и двусторонней связью)",
+  "quote": "deployment of smart metering equipment"
+ },
+ {
+  "index": 1,
+  "url": "https://www.trend.az/azerbaijan/4237799.html",
+  "other_urls": [
+   "https://en.apa.az/ict/azerbaijan-to-expand-private-sector-access-to-state-information-systems-531553"
+  ],
+  "source_tier": 2,
+  "pub_date": "2026-10-22",
+  "event_date": "2026-10-22",
+  "organization": "Агентство инноваций и цифрового развития Азербайджана (IDDA) совместно с Минфином",
+  "stage": "планируется (национальная рамка обмена данными, гособлако, национальное пространство данных; следующий этап — доступ частного сектора)",
+  "amount": {
+   "value": "не указано",
+   "currency": "",
+   "type": "",
+   "usd_approx": ""
+  },
+  "funding": "не указано",
+  "deadline": "",
+  "contact": "Shahin Aliyev, заместитель председателя правления IDDA (спикер конференции Digital Financial Ecosystem)",
+  "it_landscape": "Обмен данными между госорганами идёт через Electronic Government Information System; данные планируется консолидировать в государственном облаке.",
+  "quote": "At the next stage, we are considering providing similar integration opportunities for the private sector as well."
+ }
+]

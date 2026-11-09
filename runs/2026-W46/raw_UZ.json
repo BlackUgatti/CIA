@@ -1,0 +1,40 @@
+{
+  "country": "UZ",
+  "run_id": "2026-W46",
+  "queries": [
+    {"query_id": "UZ-Q01", "country": "UZ", "sector": "кросс", "lang": "ru", "pattern": "платформа данных", "keyword": "постановление", "query": "Узбекистан постановление платформа данных информационная система ноябрь 2026", "type": "uniform", "results_total": 15, "tech_error": false},
+    {"query_id": "UZ-Q02", "country": "UZ", "sector": "кросс", "lang": "en", "pattern": "IT due diligence", "keyword": "IPO", "query": "Uzbekistan IPO 2026 state enterprise privatization stake", "type": "uniform", "results_total": 16, "tech_error": false},
+    {"query_id": "UZ-Q03", "country": "UZ", "sector": "кросс", "lang": "en", "pattern": "AI solution", "keyword": "artificial intelligence", "query": "Uzbekistan artificial intelligence AI implementation project November 2026", "type": "uniform", "results_total": 18, "tech_error": false},
+    {"query_id": "UZ-Q04", "country": "UZ", "sector": "кросс", "lang": "ru", "pattern": "внедрение ERP", "keyword": "ERP", "query": "Узбекистан внедрение ERP SAP 1С компания 2026", "type": "explore", "results_total": 15, "tech_error": false},
+    {"query_id": "UZ-Q05", "country": "UZ", "sector": "Финансовые услуги", "lang": "en", "pattern": "system integrator tender", "keyword": "core banking", "query": "Uzbekistan bank core banking implementation 2026", "type": "uniform", "results_total": 18, "tech_error": false},
+    {"query_id": "UZ-Q06", "country": "UZ", "sector": "Телеком и цифровые сервисы", "lang": "en", "pattern": "digital transformation", "keyword": "telecom", "query": "Uzbekistan telecom Uztelecom digital data center 2026", "type": "uniform", "results_total": 20, "tech_error": false},
+    {"query_id": "UZ-Q07", "country": "UZ", "sector": "Агро и пищевая промышленность", "lang": "en", "pattern": "consulting services", "keyword": "agriculture", "query": "Uzbekistan agriculture digital consulting services World Bank ADB 2026", "type": "uniform", "results_total": 18, "tech_error": false},
+    {"query_id": "UZ-Q08", "country": "UZ", "sector": "Госсектор и квазигос", "lang": "ru", "pattern": "разработка информационной системы", "keyword": "тендер", "query": "Узбекистан разработка информационной системы тендер министерство 2026", "type": "uniform", "results_total": 14, "tech_error": false},
+    {"query_id": "UZ-Q09", "country": "UZ", "sector": "Логистика и транспорт", "lang": "en", "pattern": "project summary document", "keyword": "digital", "query": "EBRD ADB project Uzbekistan logistics transport digital 2026", "type": "uniform", "results_total": 17, "tech_error": false},
+    {"query_id": "UZ-Q10", "country": "UZ", "sector": "Горнодобыча и металлургия", "lang": "ru", "pattern": "цифровая трансформация", "keyword": "ГОК", "query": "Узбекистан ГОК горно-металлургический цифровая трансформация 2026", "type": "uniform", "results_total": 16, "tech_error": false},
+    {"query_id": "UZ-Q11", "country": "UZ", "sector": "Энергетика и зелёная энергетика", "lang": "en", "pattern": "feasibility study", "keyword": "smart metering", "query": "Uzbekistan smart metering feasibility study energy 2026", "type": "uniform", "results_total": 10, "tech_error": false},
+    {"query_id": "UZ-Q12", "country": "UZ", "sector": "Нефть и газ", "lang": "uz", "pattern": "raqamlashtirish", "keyword": "neft gaz", "query": "Uzbekneftegaz raqamlashtirish 2026 loyiha", "type": "explore", "results_total": 16, "tech_error": false}
+  ],
+  "candidates": [],
+  "rejected": [
+    {"url": "https://gov.uz/ru/digital/news/view/222857", "reason": "Uztelecom: ввод ЦОД Бухара/Коканд 2026-09-22 — старше границы свежести 2026-10-10, суммы и подрядчик не указаны; организация уже в известном лиде 2026-W43-UZ-04 (IPO)"},
+    {"url": "https://www.spot.uz/ru/2026/09/25/uztelecom/", "reason": "Рекламный материал по ICT Week, 2026-09-25, старше границы свежести"},
+    {"url": "https://anhor.uz/news/uzbekistan-elektronnye-arhivy-gosorgany-2026/", "reason": "Постановление КМ №352 от 2026-06-30 (единая архивная ИС), срок подключения 2026-11-01 прошёл, события старше границы"},
+    {"url": "https://www.developmentaid.org/tenders/view/1614933/access-to-finance-for-jobs-and-growth-mpa-phase-1-uzbekistan-expert-on-concept-development-for-a-uni", "reason": "Индивидуальный эксперт WB (вакансия-консультант), опубликовано февраль 2026, страница 403, дедлайн неизвестен"},
+    {"url": "https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-digital-transformation-of-uzbekistan-railways.html", "reason": "Дубликат известного лида 2026-W43-UZ-01, новых фактов не получено"},
+    {"url": "https://www.spot.uz/en/2026/10/09/uzbekistan-gtl/", "reason": "Дубликат известного лида 2026-W45-UZ-01"},
+    {"url": "https://gov.uz/ru/digital/news/view/189234", "reason": "Дубликат известного лида 2026-W43-UZ-03"},
+    {"url": "https://www.comnews.ru/content/246638/2026-07-29/2026-w31/1010/uzbekistan-realizuet-masshtabnuyu-programmu-cifrovizacii-promyshlennosti-investiciyami-12-mlrd", "reason": "Дубликат известного лида 2026-W44-UZ-01"},
+    {"url": "https://meatechwatch.com/2026/07/13/uzbekistan-advances-nearly-100-priority-ai-projects-across-strategic-sectors/", "reason": "Июль 2026, старше границы свежести, политика без конкретного заказчика"},
+    {"url": "https://www.spot.uz/ru/2026/06/09/sap/", "reason": "Июнь 2026, рекламное интервью SAP, нет конкретного клиента"}
+  ],
+  "gaps": [
+    "WebSearch вернул в основном резюме; ни одного свежего (после 2026-10-10) нового события по UZ не найдено в 12 запросах",
+    "developmentaid.org отдал 403 (WB-вакансия эксперта по платформе поддержки МСП)",
+    "UZ-Q08: портал госзакупок (xarid.uz) и конкретные ИТ-тендеры министерств в выдаче не появились",
+    "UZ-Q05: нет свежих core banking проектов; Ipoteka Bank замена АБС (2024) и tender на Astana Hub (дата и дедлайн неизвестны) не проверены",
+    "UZ-Q11, UZ-Q12: нет 2026 ИТ-проектов по smart metering и Uzbekneftegaz, только старые материалы",
+    "Не открыты первоисточники: data lake/OASIS (spot.uz 2025-10-21), UIMF 2026, указ УП-190 от 2026-09-10 (содержание неизвестно)"
+  ],
+  "suspicious_instructions": []
+}

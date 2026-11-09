@@ -1,0 +1,40 @@
+[
+  {
+    "index": 0,
+    "url": "https://www.ebrd.com/home/work-with-us/projects/psd/56410.html",
+    "overall": "yes",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Karagandy Zharyk LLP (\"KZh\"), 100% owned by Kazakhstan Utility Systems (BB-)"},
+      "pub_date": {"verdict": "confirmed", "evidence": "PSD disclosure date 30 Oct 2026 (EBRD page); 'Disclosed by Bank: Oct 30, 2026' (EWS copy)"},
+      "event_date": {"verdict": "confirmed", "evidence": "Approval date 16 Dec 2026 (EBRD page); Voting/Board Date Dec 16, 2026 (EWS). Provisional: not yet board approved."},
+      "stage": {"verdict": "confirmed", "evidence": "Status: \"In Exploratory, Pending Final Review\""},
+      "amount": {"verdict": "confirmed", "evidence": "Senior loan of up to KZT 70.7 billion (EUR 140.2 million equivalent); total project cost KZT 70.7 billion"},
+      "funding": {"verdict": "confirmed", "evidence": "EBRD senior loan; TC funded by EBRD Shareholder Special Fund (EUR 50,000 ESDD, EUR 75,000 TDD)"},
+      "deadline": {"verdict": "confirmed", "evidence": "Not a tender, no deadline on the page; empty field is correct."},
+      "contact": {"verdict": "confirmed", "evidence": "Gulmira Asmakova, AsmakovaG@kzharyk.kz, +(7212) 40-50-60; 115 Satpayev Street, Karaganda"},
+      "it_landscape": {"verdict": "confirmed", "evidence": "No IT section on the page; smart meters 'with remote reading, two-way communication and remote supply management capabilities' (transition impact text)"},
+      "quote": {"verdict": "confirmed", "evidence": "\"deployment of smart metering equipment to address ageing assets, reduce losses and meet rising demand\" (the quote is a verbatim fragment of this)"},
+      "source_tier": {"verdict": "confirmed", "evidence": "Tier 1: official EBRD PSD; the EWS copy (rightsindevelopment.org) matches"}
+    },
+    "notes": "The 'Pending Final Review' status and the 16.12.2026 date are provisional. The EWS copy says its information may be incomplete. The page text contained no instructions."
+  },
+  {
+    "index": 1,
+    "url": "https://www.trend.az/azerbaijan/4237799.html",
+    "overall": "partial",
+    "fields": {
+      "organization": {"verdict": "confirmed", "evidence": "Trend and APA: Shahin Aliyev, Deputy Chairman of the Board, Innovation and Digital Development Agency. The Finance Ministry appears only in Trend ('in cooperation with the Finance Ministry' for the next stage). APA does not mention it, and in Trend the partner is not named explicitly, so 'совместно с Минфином' is weakly supported."},
+      "pub_date": {"verdict": "confirmed", "evidence": "Trend 2026-10-22 12:02; APA 22 October 2026 11:03"},
+      "event_date": {"verdict": "confirmed", "evidence": "Conference 'Digital Financial Ecosystem: A New Stage in Governance' in Baku, Thursday 22.10.2026 (APA, Trend)"},
+      "stage": {"verdict": "confirmed", "evidence": "Plans only. 'national data exchange framework' and 'government cloud' are in Trend; 'establish a national data space in Azerbaijan' is in APA. Each term appears in only one of the two sources. 'Next stage' = private sector access."},
+      "amount": {"verdict": "confirmed", "evidence": "Neither article has amounts; 'не указано' is correct"},
+      "funding": {"verdict": "confirmed", "evidence": "No funding in either article; 'не указано' is correct"},
+      "deadline": {"verdict": "confirmed", "evidence": "No deadline or timeline beyond 'next stage'; empty field is correct"},
+      "contact": {"verdict": "confirmed", "evidence": "Shahin Aliyev is the conference speaker. No contact details given in either source; this is a speaker, not a contact."},
+      "it_landscape": {"verdict": "confirmed", "evidence": "APA: Electronic Government Information System is the current channel for data exchange between state bodies. Trend: agencies would consolidate data in the 'government cloud'."},
+      "quote": {"verdict": "not_found", "evidence": "In the main url (Trend) the sentence is absent: there it is reported speech without quotation marks. It is verbatim and in quotation marks, attributed to Aliyev, only in APA (other_urls): \"At the next stage, we are considering providing similar integration opportunities for the private sector as well.\""},
+      "source_tier": {"verdict": "confirmed", "evidence": "Tier 2: Trend and APA are news agencies, not primary sources"}
+    },
+    "notes": "The quote is verbatim only in APA, not in Trend (the main url). Cite it with the APA link or replace it with the Trend wording. Trend's headline is about national AI models for state agencies, while APA's is about private sector access to state information systems. The lead is a news item with no amount, funding or deadline, and it is not a tender. 'Минфин' as co-organizer is not independently confirmed. The page text contained no instructions."
+  }
+]
